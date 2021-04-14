@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Francel.
+I am a Ruby On Rails backend  developer. I write mostly Ruby code. I have also skills in Python and Django and frontend skills in JavaScript and Vuejs.
+I am currently looking for new opportunities.
+  
 <!--
 **francelwebdev/francelwebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
