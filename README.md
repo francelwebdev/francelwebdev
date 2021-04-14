@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Francel.
-I am a Ruby On Rails backend  developer. I write mostly Ruby code. I have also skills in Python and Django and frontend skills in JavaScript and Vuejs.
+I am Francel AMAMOO. I am a Ruby On Rails back-end developer.
+Ruby is the language that makes me more productive. I write very often and mostly Ruby code. I also have little skills in Python + Django and Elixir + Phoenix and Nodejs based framework and front-end skills in JavaScript and Vuejs.
 I am currently looking for new opportunities.
   
 <!--
