@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 I am Francel AMAMOO. I am a Ruby On Rails back-end developer.
-Ruby is the language that makes me more productive. I write very often and mostly Ruby code. I also have little skills in Python + Django and Elixir + Phoenix and Nodejs based framework and front-end skills in JavaScript and Vuejs.
-I am currently looking for new opportunities.
+Ruby is the language that makes me more productive and is my primary backend programming language. I write very often Ruby and JavaScript code. I also have little front-end skills in JavaScript and Vuejs and little skills in Nodejs.
+I am currently more learnning JavaScript, TypeScript and Nodejs and i'm looking for new opportunities.
   
 <!--
 **francelwebdev/francelwebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
