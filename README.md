@@ -18,7 +18,10 @@
 I am a back-end developer.
 I am using Node.js mainly to create a REST or GraphQL API as the backend for a VueJS SPA or PWA.
 I used different frameworks before (Ruby on Rails(Ruby)) and now I am all in on FoalTS.
-Technologies which i use:
+
+</br>
+
+Technologies which i use are:
 
 ### Frontend Technologies
 
@@ -30,6 +33,7 @@ Technologies which i use:
   <img src ="./images/javascript.svg" alt="JavaScript logo" width="6%" title='JavaScript'/>
   <img src ="./images/es6.svg" alt="ES6 logo" width="6%" title='ES6'/>
   <img src ="./images/vuejs-seeklogo.com.svg" alt="VueJS logo" width="6%" title='VueJS'/>
+  <img src ="./images/quasar-logo.svg" alt="Quasar logo" width="6%" title='Quasar'/>
 <div> 
 
 ### Backend Technologies
