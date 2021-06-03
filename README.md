@@ -19,8 +19,6 @@ I am a back-end developer.
 I am using Node.js mainly to create a REST or GraphQL API as the backend for a VueJS SPA or PWA.
 I used different frameworks before (Ruby on Rails(Ruby)) and now I am all in on FoalTS.
 
-</br>
-
 Technologies which i use are:
 
 ### Frontend Technologies
@@ -41,14 +39,13 @@ Technologies which i use are:
 <div>
   <img src ="./images/nodejs.svg" alt="Node logo" width="8%" title='Nodejs'/>
   <img src ="./images/express.svg" alt="express logo" width="8%" title='Express'/>
-  <img src ="./images/mongodb.svg" alt="D3 logo" width="8%" title='MongoDB'/>
+  <img src ="./images/PostgreSQL_logo.3colors.svg" alt="PostgreSQL logo" width="8%" title='PostgreSQL'/>
   <img src ="./images/mysql.svg" alt="mysql logo" width="8%" title='MYSQL'/>
   <img src ="./images/sqlite.svg" alt="sqlite logo" width="8%" title='sqlite'/>
-  <img src ="./images/python.svg" alt="Python logo" width="8%" title='Python'/>
-  <img src ="./images/flask.svg" alt="Flask logo" width="8%" title='Flask'/>
-  <img src ="./images/django.svg" alt="Django logo" width="8%" title='Django'/>
+  <img src ="./images/mongodb.svg" alt="D3 logo" width="8%" title='MongoDB'/>
 </div>
 
+<!--
 ### Tools
 
 <div>
@@ -59,10 +56,13 @@ Technologies which i use are:
   <img src ="./images/webpack.svg" alt="Webpack logo" width="8%" title='Webpack'/>
   <img src ="./images/nodemon.svg" alt="Nodemon logo" width="8%" title='Nodemon'/> 
 </div>
+-->
 
+<!--
 <small>
  I usually try to produce a jargon free educational materials.
 </small>
+-->
 
 <!-- ## Tech Stacks
 - MEEN Stack
@@ -71,9 +71,10 @@ Technologies which i use are:
 - MRF Stack
  -->
 
+<!--
 ---
 <small> _I am a lifelong learner and I love teaching and inspiring people_. </small>
-
+-->
 
 <!--
 ### Hi there 👋
