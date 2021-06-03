@@ -37,6 +37,8 @@ Technologies which i use are:
 ### Backend Technologies
 
 <div>
+  <img src ="./images/Ruby_logo.svg" alt="Ruby logo" width="8%" title='Ruby'/>
+  <img src ="./images/Ruby_On_Rails_Logo.svg" alt="Ruby on Rails logo" width="8%" title='Ruby on Rails'/>
   <img src ="./images/nodejs.svg" alt="Node logo" width="8%" title='Nodejs'/>
   <img src ="./images/express.svg" alt="express logo" width="8%" title='Express'/>
   <img src ="./images/PostgreSQL_logo.3colors.svg" alt="PostgreSQL logo" width="8%" title='PostgreSQL'/>
