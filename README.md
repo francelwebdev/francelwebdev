@@ -15,8 +15,7 @@
 </div>
 -->
 
-I am a back-end developer.
-I am using Ruby on Rails mainly to create a REST or GraphQL API as the backend for a VueJS SPA or PWA. Now i learn Node.js and TypeScript and i am all in on FoalTS framework.
+I am a back-end developer. I am using Ruby on Rails mainly to create a REST or GraphQL API as the backend for a VueJS SPA or PWA. Now i learn Node.js and TypeScript and i am all in on FoalTS framework.
 
 Technologies which i use are:
 
@@ -39,10 +38,7 @@ Technologies which i use are:
   <img src ="./images/Ruby_logo.svg" alt="Ruby logo" width="8%" title='Ruby'/>
   <img src ="./images/Ruby_On_Rails_Logo.svg" alt="Ruby on Rails logo" width="8%" title='Ruby on Rails'/>
   <img src ="./images/nodejs.svg" alt="Node logo" width="8%" title='Nodejs'/>
-  <img src ="./images/express.svg" alt="express logo" width="8%" title='Express'/>
   <img src ="./images/PostgreSQL_logo.3colors.svg" alt="PostgreSQL logo" width="8%" title='PostgreSQL'/>
-  <img src ="./images/mysql.svg" alt="mysql logo" width="8%" title='MYSQL'/>
-  <img src ="./images/sqlite.svg" alt="sqlite logo" width="8%" title='sqlite'/>
   <img src ="./images/mongodb.svg" alt="D3 logo" width="8%" title='MongoDB'/>
 </div>
 
