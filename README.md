@@ -38,6 +38,7 @@ Technologies which i use are:
   <img src ="./images/Ruby_logo.svg" alt="Ruby logo" width="8%" title='Ruby'/>
   <img src ="./images/Ruby_On_Rails_Logo.svg" alt="Ruby on Rails logo" width="8%" title='Ruby on Rails'/>
   <img src ="./images/nodejs.svg" alt="Node logo" width="8%" title='Nodejs'/>
+  <img src ="./images/Typescript_logo_2020.svg" alt="Typescript logo" width="8%" title='Typescript'/>
   <img src ="./images/PostgreSQL_logo.3colors.svg" alt="PostgreSQL logo" width="8%" title='PostgreSQL'/>
   <img src ="./images/mongodb.svg" alt="D3 logo" width="8%" title='MongoDB'/>
 </div>
