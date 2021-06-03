@@ -61,7 +61,7 @@ Les technologies que j'utilise sont :
 
 ##
 <small>
- Actuellement je suis développeur backend chez Ylomi https://www.ylomi.net/ et je cherche à collaborer sur des projets utilisant les technologies avec lequel je suis déja familier.
+ Actuellement je suis développeur backend chez Ylomi https://www.ylomi.net/ et je cherche à collaborer en freelance sur des projets utilisant les technologies avec lequel je suis déja familier.
 </small>
 
 <!-- ## Tech Stacks
