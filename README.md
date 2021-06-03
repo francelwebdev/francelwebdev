@@ -16,8 +16,7 @@
 -->
 
 I am a back-end developer.
-I am using Node.js mainly to create a REST or GraphQL API as the backend for a VueJS SPA or PWA.
-I used different frameworks before (Ruby on Rails(Ruby)) and now I am all in on FoalTS.
+I am using Ruby on Rails mainly to create a REST or GraphQL API as the backend for a VueJS SPA or PWA. Now i learn Node.js and TypeScript and i am all in on FoalTS framework.
 
 Technologies which i use are:
 
