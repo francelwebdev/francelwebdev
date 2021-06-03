@@ -27,7 +27,6 @@ Technologies which i use are:
   <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="6%" title='Bootstrap'/>
   <img src ="./images/sass.svg" alt="Sass logo" width="6%" title='Sass'/>
   <img src ="./images/javascript.svg" alt="JavaScript logo" width="6%" title='JavaScript'/>
-  <img src ="./images/es6.svg" alt="ES6 logo" width="6%" title='ES6'/>
   <img src ="./images/vuejs-seeklogo.com.svg" alt="VueJS logo" width="6%" title='VueJS'/>
   <img src ="./images/quasar-logo.svg" alt="Quasar logo" width="6%" title='Quasar'/>
 <div> 
