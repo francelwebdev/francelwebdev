@@ -1,6 +1,6 @@
-# Hi 👋 !
+# Salut 👋 !
 
-## I'm Francel AMAMOO
+## Je suis Francel AMAMOO
 <!--
 <small>Back-end developer.</small>
 
@@ -15,11 +15,15 @@
 </div>
 -->
 
-I am a back-end developer. I am using Ruby on Rails mainly to create a REST or GraphQL API as the backend for a VueJS SPA or PWA. Now i learn Node.js and TypeScript and i am all in on FoalTS framework.
+Je suis un développeur backend. J'utilise Ruby on Rails principalement pour créer une API REST ou GraphQL comme backend pour une application frontend VueJS SPA ou PWA. Maintenant, j'apprends NodeJS et TypeScript et je suis à fond sur le framework FoalTS.
 
-Technologies which i use are:
+<br>
 
-### Frontend Technologies
+À mes yeux, un framework doit me rendre aussi productif que possible et me permettre de créer rapidement des applications propres, maintenables et évolutives sans avoir besoin de beaucoup de passe-partout ou de beaucoup de configuration. Ruby on Rails et FoalTS me permet de le faire.
+
+Les technologies que j'utilise sont :
+
+### Frontend
 
 <div>
   <img src ="./images/html-5.svg" alt="HTML5 logo" width="4%" title='HTML5'/>
@@ -31,7 +35,7 @@ Technologies which i use are:
   <img src ="./images/quasar-logo.svg" alt="Quasar logo" width="6%" title='Quasar'/>
 <div> 
 
-### Backend Technologies
+### Backend
 
 <div>
   <img src ="./images/Ruby_logo.svg" alt="Ruby logo" width="8%" title='Ruby'/>
@@ -55,11 +59,9 @@ Technologies which i use are:
 </div>
 -->
 
-<!--
 <small>
- I usually try to produce a jargon free educational materials.
+ Je cherche à collaborer sur des projets utilisant les technologies que j'utilisent et avec lequel je suis déja familier.
 </small>
--->
 
 <!-- ## Tech Stacks
 - MEEN Stack
