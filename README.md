@@ -20,11 +20,11 @@ Je suis Francel AMAMOO, développeur web full stack autodidacte. J'utilise Ruby 
 
 <br>
 
-J'aime travailler sur des projets utilisant les languages suivants : Ruby, JavaScript/TypeScript et Elixir, et je m'y donne vraiment à fond car je suis très passionné, confiant et hyper motivé lorsque j'utilise ces languages pour travailler. Le langage que je n'aime pas utiliser, que je déteste utiliser c'est PHP.
+J'aime travailler sur des projets utilisant les languages suivants : Ruby, JavaScript/TypeScript et Elixir, et je m'y donne vraiment à fond car je suis très passionné, confiant et hyper motivé lorsque j'utilise ces languages pour travailler. Le langage que je n'aime pas utiliser, que je déteste utiliser c'est PHP. J'aime également Python et le framework Django. Vous comprendez donc que le point commun avec les languages que j'aime est la : Lisibilité. Cela me permet de comprendre plus vite et d'etre productif.
 
 <br>
 
-Pour moi, un framework doit me rendre aussi productif que possible et me permettre de créer rapidement des prototypes fonctionnels et application complet en un temps-record sans avoir besoin de beaucoup de passe-partout ou de beaucoup de configuration. Ruby on Rails me permettent de le faire et FoalTS et Phoenix.
+Pour moi, un language et un framework doit me rendre productif et me permettre de créer rapidement (en quelques heures) des prototypes fonctionnels et des applications complètes en quelques jours sans avoir besoin de beaucoup de passe-partout ou de beaucoup de configuration à faire au début. Le framework Ruby on Rails me permet de le faire et aussi FoalTS et Phoenix.
 
 Donc, les technologies que j'utilisent sont :
 
