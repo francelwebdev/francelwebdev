@@ -1,7 +1,8 @@
 # Salut 👋 !
 
-## Je suis Francel AMAMOO
+
 <!--
+## Je suis Francel AMAMOO
 <small>Back-end developer.</small>
 
 
@@ -15,13 +16,13 @@
 </div>
 -->
 
-Je suis un développeur backend. J'utilise Ruby on Rails principalement pour créer une API REST ou GraphQL comme backend pour une application frontend SPA avec VueJS et pour une application PWA ou mobile hybride avec Quasar, Ionic ou Framework7. Maintenant, j'apprends NodeJS et TypeScript et je suis à fond sur le framework FoalTS.
+Je suis Francel AMAMOO, développeur web full stack autodidacte. J'utilise Ruby on Rails comme choix principal pour créer une API GraphQL ou REST comme back-end pour une application front-end VueJs (SPA), application PWA et/ou application mobile hybride avec Quasar, Ionic ou Framework7. J'apprends depuis quelques mois Node Js et Typescript et le framework FoalTS que j'ai découvert dernièrement, j'apprends aussi le language Élixir et le framework Phoenix.
 
 <br>
 
-À mes yeux, un framework doit me rendre aussi productif que possible et me permettre de créer rapidement des applications propres, maintenables et évolutives sans avoir besoin de beaucoup de passe-partout ou de beaucoup de configuration. Ruby on Rails et FoalTS me permet de le faire.
+À mes yeux, un framework doit me rendre aussi productif que possible et me permettre de créer et livrer rapidement des prototyes fonctionnel en un temps record et des applications complet maintenables et évolutives sans avoir besoin de beaucoup de passe-partout ou de beaucoup de configuration. Ruby on Rails et FoalTS me permettent de le faire.
 
-Les technologies que j'utilise sont :
+Donc, les technologies que j'utilisent sont :
 
 ### Frontend
 
