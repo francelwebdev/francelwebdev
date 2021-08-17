@@ -16,11 +16,15 @@
 </div>
 -->
 
-Je suis Francel AMAMOO, développeur web full stack autodidacte. J'utilise Ruby on Rails comme choix principal pour créer une API GraphQL ou REST comme back-end pour une application front-end VueJs (SPA), application PWA et/ou application mobile hybride avec Quasar, Ionic ou Framework7. J'apprends depuis quelques mois Node Js et Typescript et le framework FoalTS que j'ai découvert dernièrement, j'apprends aussi le language Élixir et le framework Phoenix.
+Je suis Francel AMAMOO, développeur web full stack autodidacte. J'utilise Ruby on Rails pour créer une API GraphQL ou REST comme back-end pour une application front-end VueJS (SPA), application PWA et/ou application mobile hybride avec Quasar, Ionic ou Framework7. J'apprends depuis quelques mois NodeJS et TypeScript et le framework FoalTS que j'ai découvert dernièrement, j'apprends aussi le language Elixir et le framework Phoenix.
 
 <br>
 
-À mes yeux, un framework doit me rendre aussi productif que possible et me permettre de créer et livrer rapidement des prototyes fonctionnel en un temps record et des applications complet maintenables et évolutives sans avoir besoin de beaucoup de passe-partout ou de beaucoup de configuration. Ruby on Rails et FoalTS me permettent de le faire.
+J'aime travailler avec les languages suivants : Ruby, JavaScript/TypeScript et Elixir, je suis très passionné et confiant par ces languages et hyper motivé pour travailler avec ces languages.
+
+<br>
+
+Pour moi, un framework doit me rendre aussi productif que possible et me permettre de créer rapidement des prototypes fonctionnels et application complet en un temps-record sans avoir besoin de beaucoup de passe-partout ou de beaucoup de configuration. Ruby on Rails me permettent de le faire et FoalTS et Phoenix.
 
 Donc, les technologies que j'utilisent sont :
 
