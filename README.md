@@ -16,11 +16,11 @@
 </div>
 -->
 
-Je suis Francel AMAMOO, développeur web full stack autodidacte. J'utilise Ruby on Rails pour créer une API GraphQL ou REST comme back-end pour une application front-end VueJS (SPA), application PWA et/ou application mobile hybride avec Quasar, Ionic ou Framework7. J'apprends depuis quelques mois NodeJS et TypeScript et le framework FoalTS que j'ai découvert dernièrement, j'apprends aussi le language Elixir et le framework Phoenix.
+Je suis Francel AMAMOO, développeur web full stack autodidacte. J'utilise Ruby on Rails pour créer une API GraphQL ou REST comme back-end pour une application front-end VueJS (SPA), application PWA et/ou application mobile avec Quasar, Ionic ou Framework7. J'apprends maintenant NodeJS et TypeScript et le framework FoalTS que j'ai découvert dernièrement, j'apprends aussi le language Elixir et le framework Phoenix.
 
 <br>
 
-J'aime travailler avec les languages suivants : Ruby, JavaScript/TypeScript et Elixir, je suis très passionné et confiant par ces languages et hyper motivé pour travailler avec ces languages.
+J'aime travailler sur des projets utilisant les languages suivants : Ruby, JavaScript/TypeScript et Elixir, et je m'y donne vraiment à fond car je suis très passionné, confiant et hyper motivé lorsque j'utilise ces languages pour travailler. Le langage que je n'aime pas utiliser, que je déteste utiliser c'est PHP.
 
 <br>
 
