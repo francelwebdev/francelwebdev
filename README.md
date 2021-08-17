@@ -15,7 +15,7 @@
 </div>
 -->
 
-Je suis un développeur backend. J'utilise Ruby on Rails principalement pour créer une API REST ou GraphQL comme backend pour une application frontend VueJS SPA ou PWA. Maintenant, j'apprends NodeJS et TypeScript et je suis à fond sur le framework FoalTS.
+Je suis un développeur backend. J'utilise Ruby on Rails principalement pour créer une API REST ou GraphQL comme backend pour une application frontend SPA avec VueJS et pour une application PWA ou mobile hybride avec Quasar, Ionic ou Framework7. Maintenant, j'apprends NodeJS et TypeScript et je suis à fond sur le framework FoalTS.
 
 <br>
 
