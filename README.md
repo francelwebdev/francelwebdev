@@ -5,12 +5,12 @@ J'apprends maintenant NodeJS et TypeScript et le framework FoalTS que j'ai déco
 
 <br>
 
-J'aime travailler sur des projets utilisant les languages suivants : Ruby, JavaScript/TypeScript, Elixir et Python, et je m'y donne vraiment à fond car je suis très passionné, confiant et motivé lorsque j'utilise l'une de ces languages pour travailler. Le déteste apprendre et écrire du PHP, mais écrire du Ruby, Javascript/TypeScript, Elixir ou Python est une joie pour moi.
-Vous comprendez donc que le point commun avec les languages que j'aime est : La lisibilité du code, sans trop de point virgule, de parenthèse, et d'accolade. Cela est dû au fait que j'ai beaucoup utilisé le langage ruby, car cela me permet de comprendre plus vite et d'etre productif.
+J'aime travailler sur des projets utilisant les languages suivants : Ruby, JavaScript/TypeScript, Elixir et Python, et je m'y donne vraiment à fond car je suis très passionné, confiant et motivé lorsque j'utilise l'un de ces languages pour travailler. Le déteste apprendre et écrire du PHP, mais écrire du Ruby, Javascript/TypeScript, Elixir ou Python est une joie pour moi.
+Le point commun avec les languages que j'aime est : La lisibilité du code, sans trop de point virgule, de parenthèse, et d'accolade. Cela est dû au fait que j'ai beaucoup utilisé le langage ruby qui m'a fait aimé la programmation, le code.
 
 <br>
 
-Pour moi, un language et un framework doit me rendre productif et me permettre de créer rapidement (en quelques heures) des prototypes fonctionnels et des applications complètes en quelques jours sans avoir besoin de beaucoup de passe-partout ou de beaucoup de configuration à faire au début. Le framework Ruby on Rails me permet de le faire et aussi FoalTS et Phoenix.
+Pour moi, un language et un framework doit me rendre productif et me permettre de créer rapidement (en quelques heures) des prototypes fonctionnels et des applications complètes en quelques jours sans avoir besoin de beaucoup de passe-partou, de beaucoup de configuration à faire avant de commencer réellement a écrie du code. Le framework Ruby on Rails me permet d'atteindre ces objectifs et aussi FoalTS et Phoenix que j'apprends maintenant.
 
 Donc, les technologies que j'utilisent sont :
 
