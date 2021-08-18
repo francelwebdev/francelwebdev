@@ -6,7 +6,7 @@ J'apprends maintenant NodeJS et TypeScript et le framework FoalTS que j'ai déco
 <br>
 
 J'aime travailler sur des projets utilisant les languages suivants : Ruby, JavaScript/TypeScript, Elixir et Python, et je m'y donne vraiment à fond car je suis très passionné, confiant et motivé lorsque j'utilise l'un de ces languages pour travailler. Le déteste apprendre et écrire du PHP, mais écrire du Ruby, Javascript/TypeScript, Elixir ou Python est une joie pour moi.
-Le point commun avec les languages que j'aime est : La lisibilité du code, sans trop de point virgule, de parenthèse, et d'accolade. Cela est dû au fait que j'ai beaucoup utilisé le langage ruby qui m'a fait aimé la programmation, le code.
+Le point commun avec ces languages que j'aime tant est : La lisibilité du code, sans trop de point virgule, de parenthèse, et d'accolade. Cela est dû au fait que j'ai beaucoup utilisé le langage ruby qui m'a fait aimé la programmation, le code.
 
 <br>
 
