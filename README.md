@@ -33,7 +33,18 @@ Donc, les technologies que j'utilisent sont :
   <img src ="./images/Ruby_On_Rails_Logo.svg" alt="Ruby on Rails logo" width="8%" title='Ruby on Rails'/>
   <img src ="./images/nodejs.svg" alt="Node logo" width="8%" title='Nodejs'/>
   <img src ="./images/Typescript_logo_2020.svg" alt="Typescript logo" width="8%" title='Typescript'/>
+  <img src ="./images/logo.png" alt="FoalTS logo" width="8%" title='FoalTS'/>
+  <img src ="./images/logo (1).png" alt="Elixir logo" width="8%" title='Elixir'/>
+  <img src ="./images/phoenix-78c0fd3233522383ea9093ef877c8851.png" alt="Elixir logo" width="8%" title='Phoenix'/>
+  <img src ="./images/python.svg" alt="Python logo" width="8%" title='Python'/>
+  <img src ="./images/django.svg" alt="Django logo" width="8%" title='Django'/>
+</div>
+
+### Base de données
+
+<div>
   <img src ="./images/PostgreSQL_logo.3colors.svg" alt="PostgreSQL logo" width="8%" title='PostgreSQL'/>
+  <img src ="./images/logo-mysql-170x115.png" alt="MySQL logo" width="8%" title='MySQL'/>
   <img src ="./images/mongodb.svg" alt="D3 logo" width="8%" title='MongoDB'/>
 </div>
 
