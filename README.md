@@ -1,21 +1,5 @@
 # Bienvenue sur mon profil Github,
 
-
-<!--
-## Je suis Francel AMAMOO
-<small>Back-end developer.</small>
-
-
-<div>
-<a href="https://www.linkedin.com/in/asabeneh" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
-<a href="https://twitter.com/Asabeneh" target="_blank"><img src='./images/twitter.svg' alt='Twitter' width="3%" title='@Asabeneh'></a>
-<a href="https://www.youtube.com/channel/UCM4xOopkYiPwJqyKsSqL9mw" target="_blank"><img src='./images/youtube.svg' alt='YouTube' width="3%"></a>
-
-![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
-
-</div>
--->
-
 Je suis Francel AMAMOO, développeur web full stack autodidacte. J'utilise Ruby on Rails pour créer une API GraphQL ou API REST comme back-end pour une application front-end VueJS, application PWA ou application mobile avec Quasar, Ionic ou Framework7.
 J'apprends maintenant NodeJS et TypeScript et le framework FoalTS que j'ai découvert dernièrement, j'apprends aussi le language Elixir et le framework Phoenix.
 
