@@ -14,7 +14,7 @@ Pour moi, un language et un framework doit me rendre productif et me permettre d
 
 Donc, les technologies que j'utilisent sont :
 
-### Frontend
+### Frontend et Mobile
 
 <div>
   <img src ="./images/html-5.svg" alt="HTML5 logo" width="4%" title='HTML5'/>
@@ -24,6 +24,7 @@ Donc, les technologies que j'utilisent sont :
   <img src ="./images/javascript.svg" alt="JavaScript logo" width="6%" title='JavaScript'/>
   <img src ="./images/vuejs-seeklogo.com.svg" alt="VueJS logo" width="6%" title='VueJS'/>
   <img src ="./images/quasar-logo.svg" alt="Quasar logo" width="6%" title='Quasar'/>
+  <img src ="./images/512px-Ionic_Logo.svg.png" alt="Ionic logo" width="6%" title='Ionic'/>
 <div> 
 
 ### Backend
@@ -32,7 +33,8 @@ Donc, les technologies que j'utilisent sont :
   <img src ="./images/Ruby_logo.svg" alt="Ruby logo" width="8%" title='Ruby'/>
   <img src ="./images/Ruby_On_Rails_Logo.svg" alt="Ruby on Rails logo" width="8%" title='Ruby on Rails'/>
   <img src ="./images/nodejs.svg" alt="Node logo" width="8%" title='Nodejs'/>
-  <img src ="./images/Typescript_logo_2020.svg" alt="Typescript logo" width="8%" title='Typescript'/>
+  <img src ="./images/express.svg" alt="Express logo" width="8%" title='Express'/>
+  <img src ="./images/Typescript_logo_2020.svg" alt="TypeScript logo" width="8%" title='TypeScript'/>
   <img src ="./images/logo.png" alt="FoalTS logo" width="8%" title='FoalTS'/>
   <img src ="./images/logo (1).png" alt="Elixir logo" width="8%" title='Elixir'/>
   <img src ="./images/phoenix-78c0fd3233522383ea9093ef877c8851.png" alt="Elixir logo" width="8%" title='Phoenix'/>
