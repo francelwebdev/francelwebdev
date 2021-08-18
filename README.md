@@ -1,4 +1,4 @@
-# Salut et bienvenue sur mon profil Github,
+# Bienvenue sur mon profil Github,
 
 
 <!--
@@ -16,14 +16,12 @@
 </div>
 -->
 
-Je suis Francel AMAMOO, développeur web full stack autodidacte. J'utilise Ruby on Rails pour créer une API GraphQL ou REST comme back-end pour une application front-end VueJS (SPA), application PWA et/ou application mobile avec Quasar, Ionic ou Framework7. J'apprends maintenant NodeJS et TypeScript et le framework FoalTS que j'ai découvert dernièrement, j'apprends aussi le language Elixir et le framework Phoenix.
-
+Je suis Francel AMAMOO, développeur web full stack autodidacte. J'utilise Ruby on Rails pour créer une API GraphQL ou API REST comme back-end pour une application front-end VueJS (SPA), application PWA ou application mobile avec Quasar, Ionic ou Framework7.
+J'apprends maintenant NodeJS et TypeScript et le framework FoalTS que j'ai découvert dernièrement, j'apprends aussi le language Elixir et le framework Phoenix.
 <br>
-
-J'aime travailler sur des projets utilisant les languages suivants : Ruby, JavaScript/TypeScript et Elixir, et je m'y donne vraiment à fond car je suis très passionné, confiant et hyper motivé lorsque j'utilise ces languages pour travailler. Le langage que je n'aime pas utiliser, que je déteste utiliser c'est PHP. J'aime également Python et le framework Django. Vous comprendez donc que le point commun avec les languages que j'aime est : La lisibilité du code, sans trop de point virgule, de parenthèse, et d'accolade. Cela est dû au fait que j'ai beaucoup utilisé le langage ruby, car cela me permet de comprendre plus vite et d'etre productif.
-
+J'aime travailler sur des projets utilisant les languages suivants : Ruby, JavaScript/TypeScript, Elixir et Python, et je m'y donne vraiment à fond car je suis très passionné, confiant et motivé lorsque j'utilise l'une de ces languages pour travailler. Le déteste apprendre et écrire du PHP, mais écrire du Ruby, Javascript/TypeScript, Elixir ou Python est une joie pour moi.
+Vous comprendez donc que le point commun avec les languages que j'aime est : La lisibilité du code, sans trop de point virgule, de parenthèse, et d'accolade. Cela est dû au fait que j'ai beaucoup utilisé le langage ruby, car cela me permet de comprendre plus vite et d'etre productif.
 <br>
-
 Pour moi, un language et un framework doit me rendre productif et me permettre de créer rapidement (en quelques heures) des prototypes fonctionnels et des applications complètes en quelques jours sans avoir besoin de beaucoup de passe-partout ou de beaucoup de configuration à faire au début. Le framework Ruby on Rails me permet de le faire et aussi FoalTS et Phoenix.
 
 Donc, les technologies que j'utilisent sont :
