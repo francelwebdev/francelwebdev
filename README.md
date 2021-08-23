@@ -1,7 +1,7 @@
 # Bienvenue sur mon profil Github,
 
-Je suis Francel AMAMOO, développeur web full stack autodidacte. J'utilise Ruby on Rails pour créer une API GraphQL ou API REST comme back-end pour une application front-end VueJS, application PWA ou application mobile avec Quasar, Ionic ou Framework7.
-J'apprends maintenant NodeJS et TypeScript et le framework FoalTS que j'ai découvert dernièrement, j'apprends aussi le language Elixir et le framework Phoenix.
+Je suis Francel AMAMOO, développeur web full stack autodidacte. J'utilise Ruby on Rails comme choix principal pour créer une API GraphQL ou API REST (selon les besoins ou contrainte) comme back-end pour une application front-end VueJS (SPA + PWA) ou application mobile que je construit avec le framework Quasar ou Ionic.
+Compte tenu de la non popularité du language Ruby et du Framework Ruby on rails, je faire une transition vers Nodejs, donc j'apprends maintenant NodeJS, TypeScript et le framework Express et FoalTS. <!-- j'apprends aussi le language Elixir et le framework Phoenix. -->
 
 <br>
 
@@ -36,10 +36,10 @@ Donc, les technologies que j'utilisent sont :
   <img src ="./images/express.svg" alt="Express logo" width="8%" title='Express'/>
   <img src ="./images/Typescript_logo_2020.svg" alt="TypeScript logo" width="8%" title='TypeScript'/>
   <img src ="./images/logo.png" alt="FoalTS logo" width="8%" title='FoalTS'/>
-  <img src ="./images/logo (1).png" alt="Elixir logo" width="8%" title='Elixir'/>
+  <!-- <img src ="./images/logo (1).png" alt="Elixir logo" width="8%" title='Elixir'/>
   <img src ="./images/phoenix-78c0fd3233522383ea9093ef877c8851.png" alt="Elixir logo" width="8%" title='Phoenix'/>
   <img src ="./images/python.svg" alt="Python logo" width="8%" title='Python'/>
-  <img src ="./images/django.svg" alt="Django logo" width="8%" title='Django'/>
+  <img src ="./images/django.svg" alt="Django logo" width="8%" title='Django'/> -->
 </div>
 
 ### Base de données
