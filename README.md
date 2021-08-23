@@ -2,15 +2,11 @@
 
 Je suis Francel AMAMOO, développeur web full stack autodidacte. J'utilise Ruby on Rails comme choix principal pour créer une API GraphQL ou API REST (selon les besoins ou contraintes) comme back-end pour une application front-end VueJS (SPA + PWA) ou application mobile que je construire avec le framework Quasar ou Ionic.
 
-Comme le language Ruby et Ruby on Rails n'est pas populaire ici en Afrique, précisément au Bénin, je continue quand même d'utiliser Ruby et Ruby on Rails pour mes projets personnels et j'apprends en parallèle Node Js, Typescript et le framework Express et FoalTS pour finalement me concentrer uniquement sur ces derniers.
+Comme le language Ruby et Ruby on Rails n'est pas populaire ici en Afrique, précisément au Bénin, je continue quand même d'utiliser Ruby et Ruby on Rails pour mes projets personnels et j'apprends en parallèle NodeJS, TypeScript et le framework Express et FoalTS pour finalement me concentrer uniquement sur ces derniers.
 
-<br>
-
-J'aime travailler avec les languages : Ruby, JavaScript/TypeScript et je m'y donne vraiment à fond car je suis très confiant et motivé lorsque je travaille avec l'un de ces languages.
-#### Le déteste utiliser le language PHP pour travailler (bien que j'ai plusieurs années d'expériences avec PHP). Écrire du code Ruby et Javascript/TypeScript est une joie pour moi et me rend productif et confiant.
-La raison pour laquel j'aime tant Ruby est : la lisibilité du code, sans trop de point virgule, de parenthèse, et d'accolade qui sont strict en PHP alors qu'en Ruby et c'est optionnel, cela me rend donc productif.
-
-<br>
+J'aime travailler avec les languages : Ruby, JavaScript/TypeScript et je suis très confiant et motivé lorsque je travaille avec ces languages.
+#### Le déteste à mort coder en PHP (bien que j'ai plusieurs années d'expériences avec PHP). Écrire du code Ruby et Javascript/TypeScript est une joie pour moi et me rend productif et confiant.
+La raison pour laquel j'aime tant Ruby est la lisibilité du code. Les points virgules, les parenthèses, et les accolades qui sont strict en PHP me dégoûte, en Ruby elles sont pas obligatoire (je vous invite a jeter un coup d'oeil à un code Ruby et PHP sur le web, vous comprendez).
 
 Pour moi, un language et un framework doit me rendre productif et me permettre de créer rapidement (en quelques heures) des prototypes fonctionnels et des applications complètes en quelques jours sans avoir besoin de beaucoup de passe-partou, de beaucoup de configuration à faire avant de commencer réellement a écrie du code. Le framework Ruby on Rails me permet d'atteindre ces objectifs et aussi FoalTS et Phoenix que j'apprends maintenant.
 
