@@ -5,7 +5,7 @@ Je suis Francel AMAMOO, développeur web full stack autodidacte. J'utilise Ruby 
 Comme le language Ruby et Ruby on Rails ne sont pas populaire ici en Afrique, précisément au Bénin, je continue quand même de les utiliser pour mes projets personnels et j'apprends en parallèle NodeJS, TypeScript et le framework Express et FoalTS pour finalement me concentrer uniquement sur ces derniers.
 
 J'aime travailler avec les languages : Ruby, JavaScript/TypeScript et je suis confiant et motivé lorsque je les utilisent pour travailler.
-#### Je déteste à mort coder en PHP (bien que j'ai plusieurs années d'expériences avec PHP). Écrire du code Ruby et Javascript/TypeScript est une joie pour moi et me rend productif et confiant.
+#### Je déteste à mort coder en PHP (bien que j'ai plusieurs années d'expériences avec PHP), sa syntaxe me dégoûte. Écrire du code Ruby et Javascript/TypeScript est amusant et une joie pour moi et me rend ainsi productif et confiant.
 La raison pour laquel j'aime tant Ruby est la lisibilité du code. Les points virgules, les parenthèses, et les accolades qui sont strict en PHP me dégoûte, en Ruby elles sont pas obligatoire (je vous invite a jeter un coup d'oeil à un code Ruby et PHP sur le web, vous comprendez).
 
 Pour moi, un language et un framework doit me rendre productif et me permettre de créer rapidement (en quelques heures) des prototypes fonctionnels et des applications complètes en quelques jours sans avoir besoin de beaucoup de passe-partou, de beaucoup de configuration à faire avant de commencer réellement a écrie du code. Le framework Ruby on Rails me permet d'atteindre ces objectifs et aussi FoalTS et Phoenix que j'apprends maintenant.
