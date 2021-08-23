@@ -8,9 +8,9 @@ J'aime travailler avec les languages : Ruby, JavaScript/TypeScript et je suis co
 #### Je déteste à mort coder en PHP (bien que j'ai plusieurs années d'expériences avec PHP), sa syntaxe me dégoûte. Écrire du code Ruby et Javascript/TypeScript est amusant et une joie pour moi et me rend ainsi productif et confiant.
 La raison pour laquel j'aime tant Ruby est la lisibilité du code, comme en Python (j'aime également Python, mais j'ai peu d'expérience avec). Les points virgules, les parenthèses, et les accolades qui sont obligatoire en PHP me dégoûte, en Ruby elles sont pas obligatoire (je vous invite a jeter un coup d'oeil à un code Ruby et PHP sur le web, vous comprendez).
 
-Pour moi, un language et un framework doit me rendre productif et me permettre de créer rapidement (en quelques heures) des prototypes fonctionnels et des applications complètes en quelques jours sans avoir besoin de beaucoup de passe-partou, de beaucoup de configuration à faire avant de commencer réellement a écrie du code. Le framework Ruby on Rails me permet d'atteindre ces objectifs et aussi FoalTS et Phoenix que j'apprends maintenant.
+Pour moi, un language et un framework doit me rendre productif et me permettre de créer rapidement (en quelques heures) des prototypes fonctionnels et des applications complètes en quelques jours sans avoir besoin de beaucoup de passe-partou, de beaucoup de configuration à faire avant de commencer a coder les fonctionnalités. Le framework Ruby on Rails me permet d'atteindre cet objectif.
 
-Donc, les technologies que j'utilisent sont :
+Donc, les technologies que j'utilisent quotidiennement sont :
 
 ### Frontend et Mobile
 
