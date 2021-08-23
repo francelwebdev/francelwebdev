@@ -1,12 +1,13 @@
 # Bienvenue sur mon profil Github,
 
-Je suis Francel AMAMOO, développeur web full stack autodidacte. J'utilise Ruby on Rails comme choix principal pour créer une API GraphQL ou API REST (selon les besoins ou contrainte) comme back-end pour une application front-end VueJS (SPA + PWA) ou application mobile que je construit avec le framework Quasar ou Ionic.
-Compte tenu de la non popularité du language Ruby et du Framework Ruby on rails, je faire une transition vers Nodejs, donc j'apprends maintenant NodeJS, TypeScript et le framework Express et FoalTS. <!-- j'apprends aussi le language Elixir et le framework Phoenix. -->
+Je suis Francel AMAMOO, développeur web full stack autodidacte. J'utilise Ruby on Rails comme choix principal pour créer une API GraphQL ou API REST (selon les besoins ou contraintes) comme back-end pour une application front-end VueJS (SPA + PWA) ou application mobile que je construire avec le framework Quasar ou Ionic.
+Comme le language Ruby et Ruby on Rails n'est pas populaire ici en Afrique, précisément au Bénin, je continue quand même d'utiliser Ruby et Ruby on Rails pour mes projets personnels et j'apprends en parallèle Node Js, Typescript et le framework Express et FoalTS pour finalement me concentrer uniquement sur ces derniers.
 
 <br>
 
-J'aime travailler sur des projets utilisant les languages suivants : Ruby, JavaScript/TypeScript, Elixir et Python, et je m'y donne vraiment à fond car je suis très passionné, confiant et motivé lorsque j'utilise l'un de ces languages pour travailler. Le déteste apprendre et écrire du PHP, mais écrire du Ruby, Javascript/TypeScript, Elixir ou Python est une joie pour moi.
-Le point commun avec ces languages que j'aime tant est : La lisibilité du code, sans trop de point virgule, de parenthèse, et d'accolade. Cela est dû au fait que j'ai beaucoup utilisé le langage ruby qui m'a fait aimé la programmation, le coding.
+J'aime travailler avec les languages : Ruby, JavaScript/TypeScript et je m'y donne vraiment à fond car je suis très confiant et motivé lorsque je travaille avec l'un de ces languages.
+#### Le déteste utiliser le language PHP pour travailler (bien que j'ai plusieurs années d'expériences avec PHP). Écrire du code Ruby et Javascript/TypeScript est une joie pour moi et me rend productif et confiant.
+La raison pour laquel j'aime tant Ruby est : la lisibilité du code, sans trop de point virgule, de parenthèse, et d'accolade qui sont strict en PHP alors qu'en Ruby et c'est optionnel, cela me rend donc productif.
 
 <br>
 
