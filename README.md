@@ -57,11 +57,6 @@ Donc, je travaille uniquement avec les languages : Ruby, JavaScript/TypeScript.
 </div>
 -->
 
-##
-<small>
- Actuellement je suis développeur backend à Ylomi https://www.ylomi.net/ et je voudrais bien collaborer en freelance sur des projets utilisant les languages et frameworks que j'utilisent.
-</small>
-
 <!-- ## Tech Stacks
 - MEEN Stack
 - MERN Stack
