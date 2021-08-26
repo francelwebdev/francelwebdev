@@ -1,8 +1,8 @@
 # Bienvenue sur mon profil Github,
 
-Je suis Francel AMAMOO, développeur web full stack autodidacte. J'utilise Ruby on Rails pour créer une API GraphQL ou API REST comme back-end pour une application front-end VueJS (SPA + PWA) ou application mobile que je construire avec le framework Quasar ou Ionic.
+Je suis Francel AMAMOO, développeur web full stack autodidacte. J'utilise Ruby on Rails pour créer une API GraphQL ou API REST comme back-end pour une application front-end VueJS (SPA + PWA).
 
-Comme le language Ruby et Ruby on Rails ne sont pas populaire ici au Bénin, je les apprends et les utilisent encore pour mes projets personnels et j'apprends en parallèle NodeJS, TypeScript et le framework Express et FoalTS pour finalement me concentrer uniquement que sur JavaScript/TypeScript que je pourrais utiliser en front-end comme en Back-end.
+Comme le language Ruby et Ruby on Rails ne sont pas populaire ici au Bénin, je les apprends et les utilisent encore pour mes projets personnels et j'apprends en parallèle NodeJS, TypeScript et le framework Express et FoalTS pour finalement me concentrer uniquement que sur JavaScript/TypeScript que je peux utiliser à la fois en front-end et en Back-end. J'apprend également à construire une application mobile avec le framework Ionic et Quasar.
 
 Pour moi, un language et un framework doit me rendre productif et me permettre de créer rapidement (en quelques heures) des prototypes fonctionnels et des applications complètes en quelques jours sans avoir besoin de beaucoup de passe-partou, de beaucoup de configuration à faire avant de commencer a coder les fonctionnalités. Le framework Ruby on Rails me permet d'atteindre cet objectif.
 
