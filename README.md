@@ -1,18 +1,14 @@
 # Bienvenue sur mon profil Github,
 
-Je suis Francel AMAMOO, développeur web full stack autodidacte. J'utilise Ruby on Rails comme choix principal pour créer une API GraphQL ou API REST (selon les besoins ou contraintes) comme back-end pour une application front-end VueJS (SPA + PWA) ou application mobile que je construire avec le framework Quasar ou Ionic.
+Je suis Francel AMAMOO, développeur web full stack autodidacte. J'utilise Ruby on Rails pour créer une API GraphQL ou API REST comme back-end pour une application front-end VueJS (SPA + PWA) ou application mobile que je construire avec le framework Quasar ou Ionic.
 
-Comme le language Ruby et Ruby on Rails ne sont pas populaire ici en Afrique, précisément au Bénin, je continue quand même de les utiliser pour mes projets personnels et j'apprends en parallèle NodeJS, TypeScript et le framework Express et FoalTS pour finalement me concentrer uniquement sur ces derniers.
-
-J'aime travailler avec les languages : Ruby, JavaScript/TypeScript et je suis confiant et motivé lorsque je les utilisent pour travailler.
-#### Je déteste à mort coder en PHP (bien que j'ai plusieurs années d'expériences avec PHP), sa syntaxe me dégoûte. Écrire du code Ruby et Javascript/TypeScript est amusant et une joie pour moi et me rend ainsi productif et confiant.
-La raison pour laquel j'aime tant Ruby est la lisibilité du code, comme en Python (j'aime également Python, mais j'ai peu d'expérience avec). Les points virgules, les parenthèses, et les accolades qui sont obligatoire en PHP me dégoûte, en Ruby elles sont pas obligatoire (je vous invite a jeter un coup d'oeil à un code Ruby et PHP sur le web, vous comprendez).
+Comme le language Ruby et Ruby on Rails ne sont pas populaire ici au Bénin, je les apprends et les utilisent encore pour mes projets personnels et j'apprends en parallèle NodeJS, TypeScript et le framework Express et FoalTS pour finalement me concentrer uniquement que sur JavaScript/TypeScript que je pourrais utiliser en front-end comme en Back-end.
 
 Pour moi, un language et un framework doit me rendre productif et me permettre de créer rapidement (en quelques heures) des prototypes fonctionnels et des applications complètes en quelques jours sans avoir besoin de beaucoup de passe-partou, de beaucoup de configuration à faire avant de commencer a coder les fonctionnalités. Le framework Ruby on Rails me permet d'atteindre cet objectif.
 
-Donc, les technologies que j'utilisent quotidiennement sont :
+Donc, je travaille uniquement avec les languages : Ruby, JavaScript/TypeScript.
 
-### Frontend et Mobile
+### Front-end et Mobile
 
 <div>
   <img src ="./images/html-5.svg" alt="HTML5 logo" width="4%" title='HTML5'/>
@@ -25,7 +21,7 @@ Donc, les technologies que j'utilisent quotidiennement sont :
   <img src ="./images/512px-Ionic_Logo.svg.png" alt="Ionic logo" width="6%" title='Ionic'/>
 <div> 
 
-### Backend
+### Back-end
 
 <div>
   <img src ="./images/Ruby_logo.svg" alt="Ruby logo" width="8%" title='Ruby'/>
