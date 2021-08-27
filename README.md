@@ -2,11 +2,11 @@
 
 I am Francel AMAMOO, self-taught full stack web developer. I am using Ruby on Rails to create a GraphQL API or REST API as the back end for a VueJS front end application (SPA + PWA).
 
-As the Ruby language and Ruby on Rails are not popular here in Benin, I am still learning and using them for my personal projects and I am learning NodeJS, TypeScript and the Express and FoalTS framework at the same time to finally focus only on JavaScript / TypeScript which I can use both front-end and back-end. I am also learning to build a mobile application with the Ionic and Quasar framework.
+As the Ruby language and Ruby on Rails are not popular here in Benin, I am still learning and using them for my personal projects and I am also learning NodeJS, TypeScript and the Express and FoalTS framework which I can use both in client side and server side. I am also learning to build a mobile application with the Ionic and Quasar framework.
 
 For me, a language and a framework should make me productive and allow me to quickly (in a few hours) create functional prototypes and complete applications in a few days without needing a lot of pass-through, a lot of configuration to do before to start coding the features. The Ruby on Rails framework allows me to achieve this goal.
 
-So I only work with languages: Ruby, JavaScript/TypeScript.
+So I only work with languages: Ruby, JavaScript / TypeScript.
 
 -----------------------
 
