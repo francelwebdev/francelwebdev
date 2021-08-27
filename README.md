@@ -48,7 +48,7 @@ Donc, je travaille uniquement avec les languages : Ruby, JavaScript/TypeScript.
   <img src ="./images/django.svg" alt="Django logo" width="8%" title='Django'/> -->
 </div>
 
-### Base de données
+### Database
 
 <div>
   <img src ="./images/PostgreSQL_logo.3colors.svg" alt="PostgreSQL logo" width="8%" title='PostgreSQL'/>
