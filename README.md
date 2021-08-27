@@ -1,6 +1,6 @@
 # Welcome to my Github profile,
 
-I am Francel AMAMOO, self-taught full stack web developer. I am using Ruby on Rails to create a GraphQL API or REST API as the back end for a VueJS front end application (SPA + PWA).
+I am Francel AMAMOO, self-taught full stack web developer. I am mostly using Ruby on Rails to create a GraphQL API or REST API as the back end for a VueJS front end application (SPA + PWA).
 
 As the Ruby language and Ruby on Rails are not popular here in Benin, I am still learning and using them for my personal projects and I am also learning NodeJS, TypeScript and the Express and FoalTS framework which I can use both in client side and server side. I am also learning to build a mobile application with the Ionic and Quasar framework.
 
