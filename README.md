@@ -1,15 +1,15 @@
 # Welcome to my Github profile,
 
-I am Francel AMAMOO, self-taught full stack web developer. I am mostly using Ruby on Rails to create a GraphQL API or REST API as the back end for a VueJS front end application (SPA + PWA).
+I am Francel AMAMOO, self-taught full stack web developer. I build either GraphQL or REST APIs (depending on the need and the type of application I want to build) as a back-end for a VueJS front-end application.
 
-As the Ruby language and Ruby on Rails are not popular here in Bénin, I am still learning and using them for my personal projects and I am also learning NodeJS, TypeScript and the Express and FoalTS framework which I can use both in client side and server side. I am also learning to build a mobile application with the Ionic and Quasar framework.
+I was mainly using the Ruby language and the Ruby on Rails framework for the backend and now I am switching to the JavaScript ecosystem, TypeScript, NodeJS, and ExpressJS. I am also learning to build a hybrid mobile application with the Ionic Vue and Vue Quasar frameworks.
 
-I like to use the tools that allow me to build things very quickly or at least functional prototypes very quickly.
-i like tools that let me do more by write less.
+I like to use the tools that allow me to build things very quickly or at least working prototypes very quickly.
+I like tools that allow me to do more while writing less.
 
-For me, a language and a framework should make me productive and allow me to quickly (in a few hours) create functional prototypes and complete applications in a few days without needing a lot of pass-through, a lot of configuration to do before to start coding the features. The Ruby on Rails framework allows me to achieve this goal.
+For me, a language and a framework should make me productive and allow me to quickly (in a few hours) create working prototypes and complete applications in a few days.
 
-So I only work with languages: Ruby, JavaScript / TypeScript.
+So I'm now focusing on JavaScript/TypeScript, NodeJS, and ExpressJS.
 
 ### On client side, i use theses tools.
 
