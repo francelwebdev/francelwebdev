@@ -1,15 +1,10 @@
 # Welcome to my Github profile,
 
-I am Francel AMAMOO, self-taught full stack web developer. I build either GraphQL or REST APIs (depending on the need and the type of application I want to build) as a back-end for a VueJS front-end application.
+I am Francel AMAMOO, self-taught full stack web developer. I build GraphQL or REST APIs (depending on the need and the type of application) as a back-end for a VueJS front-end application.
 
-I was mainly using the Ruby language and the Ruby on Rails framework for the backend and now I am switching to the JavaScript ecosystem, TypeScript, NodeJS, and ExpressJS. I am also learning to build a hybrid mobile application with the Ionic Vue and Vue Quasar frameworks.
+I was using the Ruby language and the Ruby on Rails framework for the backend and now I'm switching to NodeJS / Express and focusing on the JavaScript / TypeScript ecosystem (because I can use the same language on both client and server side). I am also learning to create a mobile application with the Ionic Vue and Vue Quasar frameworks.
 
-I like to use the tools that allow me to build things very quickly or at least working prototypes very quickly.
-I like tools that allow me to do more while writing less.
-
-For me, a language and a framework should make me productive and allow me to quickly (in a few hours) create working prototypes and complete applications in a few days.
-
-So I'm now focusing on JavaScript/TypeScript, NodeJS, and ExpressJS.
+For me, the tools (the programming language and the framework) must make me productive to quickly build (in a few hours) functional prototypes and complete applications in a few days.
 
 ### On client side, i use theses tools.
 
