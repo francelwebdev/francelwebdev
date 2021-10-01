@@ -1,6 +1,6 @@
 # Hello and Welcome to my Github profile
 
-I am Francel AMAMOO, self-taught full stack web developer. I build GraphQL or REST APIs (depending on the need and the type of application) as a back-end for a VueJS front-end application.
+I am Francel AMAMOO, self-taught full stack web developer. I build GraphQL or REST APIs as a back-end for a VueJS front-end application.
 
 I was using the Ruby language and the Ruby on Rails framework for the backend and now I'm switching to NodeJS / Express and focusing on the JavaScript / TypeScript ecosystem (because I can use the same language on both client and server side). I am also learning to create a mobile application with the Ionic Vue and Vue Quasar frameworks.
 
