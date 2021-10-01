@@ -1,4 +1,4 @@
-# Welcome to my Github profile,
+# Hello and Welcome to my Github profile
 
 I am Francel AMAMOO, self-taught full stack web developer. I build GraphQL or REST APIs (depending on the need and the type of application) as a back-end for a VueJS front-end application.
 
