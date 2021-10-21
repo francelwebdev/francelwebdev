@@ -15,7 +15,7 @@ For me, the tools (the programming language and the framework) must make me prod
 
 ### Programming Languages and Tools I use every days
 
-#### On client side.
+#### Client side.
 
 <p>
   <img src ="./images/html-5.svg" alt="HTML5 logo" width="4%" title='HTML5'/>
@@ -28,7 +28,7 @@ For me, the tools (the programming language and the framework) must make me prod
   <img src ="./images/512px-Ionic_Logo.svg.png" alt="Ionic logo" width="6%" title='Ionic'/>
 </p> 
 
-#### On server side.
+#### Server side.
 
 <div>
   <img src ="./images/Ruby_logo.svg" alt="Ruby logo" width="8%" title='Ruby'/>
@@ -69,6 +69,9 @@ For me, the tools (the programming language and the framework) must make me prod
 <p><img src="https://github-readme-stats.vercel.app/api?username=francelwebdev&show_icons=true&locale=en" alt="Francel AMAMOO" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francelwebdev&" alt="Francel AMAMOO" /></p>
+
+
+## Have a project and need a developer to work on it with you ? I'm available to work remotely as a freelance on your  projects. Email me at francel.webdev@gmail.com.
 
 
 <!-- ## Tech Stacks
