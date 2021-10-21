@@ -17,7 +17,7 @@ For me, the tools (the programming language and the framework) must make me prod
 
 ### Programming Languages and Tools I use every days.
 
-#### Client side and Mobile.
+#### Client side and Mobile (PWA).
 
 <p>
   <img src ="./images/html-5.svg" alt="HTML5 logo" width="4%" title='HTML5'/>
