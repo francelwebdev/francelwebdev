@@ -1,21 +1,19 @@
-# Hi, I'm Francel AMAMOO, 
+# Hi, I'm Francel AMAMOO
 
-I'm a self-taught full stack web developer passionate about web and mobile development and also chatbots development.
+I'm a self-taught full-stack web developer passionate about web and mobile development and also chatbots development.
 
-I build GraphQL or REST APIs as a back-end for a VueJS front-end application.
+I build GraphQL APIs or REST APIs as a back-end for a VueJS front-end application.
 
-During my career, I have done a lot of back-end with the Ruby language and the Ruby on Rails framework. I learned a lot of things and also experimented with other languages and frameworks.
+During my career, I have done a lot of back-end with the Ruby language and the Ruby on Rails framework. I learned a lot of things about web development and also experimented with other languages and frameworks like Python/Django, Elixir/Phoenix, and (PHP/Laravel which I very hate to work with).
 
-Over the past few months I have written a lot more JavaScript and TypeScript as it allows me to use the same language on both client and server side and to be proficient in JavaScript.
-
-I am also learning to create a mobile application with the Ionic Vue and Vue Quasar frameworks.
+Over the past few months I have written a lot more JavaScript and TypeScript as it allows me to use the same language on both client and server side and to be proficient in JavaScript as Ruby language.
 
 For me, the tools (the programming language and the framework) must make me productive to quickly build (in a few hours) functional prototypes and complete applications in a few days.
 
 
-### Programming Languages and Tools I use every days
+### Programming Languages and Tools I use every days.
 
-#### Client side.
+#### Client side and Mobile.
 
 <p>
   <img src ="./images/html-5.svg" alt="HTML5 logo" width="4%" title='HTML5'/>
@@ -26,11 +24,11 @@ For me, the tools (the programming language and the framework) must make me prod
   <img src ="./images/vuejs-seeklogo.com.svg" alt="VueJS logo" width="6%" title='VueJS'/>
   <img src ="./images/quasar-logo.svg" alt="Quasar logo" width="6%" title='Quasar'/>
   <img src ="./images/512px-Ionic_Logo.svg.png" alt="Ionic logo" width="6%" title='Ionic'/>
-</p> 
+</p>
 
 #### Server side.
 
-<div>
+<p>
   <img src ="./images/Ruby_logo.svg" alt="Ruby logo" width="8%" title='Ruby'/>
   <img src ="./images/Ruby_On_Rails_Logo.svg" alt="Ruby on Rails logo" width="8%" title='Ruby on Rails'/>
   <img src ="./images/nodejs.svg" alt="Node logo" width="8%" title='Nodejs'/>
@@ -41,9 +39,9 @@ For me, the tools (the programming language and the framework) must make me prod
   <img src ="./images/phoenix-78c0fd3233522383ea9093ef877c8851.png" alt="Elixir logo" width="8%" title='Phoenix'/>
   <img src ="./images/python.svg" alt="Python logo" width="8%" title='Python'/>
   <img src ="./images/django.svg" alt="Django logo" width="8%" title='Django'/> -->
-</div>
+</p>
 
-#### Database
+#### Database.
 
 <p>
   <img src ="./images/PostgreSQL_logo.3colors.svg" alt="PostgreSQL logo" width="8%" title='PostgreSQL'/>
@@ -52,15 +50,17 @@ For me, the tools (the programming language and the framework) must make me prod
 </p>
 
 
-#### Tools
+#### Tools.
 
 <p>
-  <img src ="./images/figma.svg" alt="Figma logo" width="8%" title='Figma'/>
   <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="8%" title='Visual Studio Code'/>
   <img src ="./images/git.svg" alt="Git logo" width="8%" title='Git'/>
+  <!--
+  <img src ="./images/figma.svg" alt="Figma logo" width="8%" title='Figma'/>  
   <img src ="./images/eslint.svg" alt="ESLint logo" width="8%" title='ESLint'/>
-  <img src ="./images/webpack.svg" alt="Webpack logo" width="8%" title='Webpack'/>
+  <img src ="./images/webpack.svg" alt="Webpack logo" width="8%" title='Webpack'/>  
   <img src ="./images/nodemon.svg" alt="Nodemon logo" width="8%" title='Nodemon'/> 
+  -->
 </p>
 
 
@@ -71,7 +71,7 @@ For me, the tools (the programming language and the framework) must make me prod
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francelwebdev&" alt="Francel AMAMOO" /></p>
 
 
-## Have a project and need a developer to work on it with you ? I'm available to work remotely as a freelance on your  projects. Email me at francel.webdev@gmail.com.
+## Have a project that use any of the languages, frameworks and tools I use and need a developer to work on it with you ? I'm available to work remotely as a freelance on your  projects. Email me at francel.webdev@gmail.com.
 
 
 <!-- ## Tech Stacks
