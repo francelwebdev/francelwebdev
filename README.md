@@ -9,7 +9,7 @@ During my career, I have done a lot of back-end with the Ruby language and the R
 Over the past few months I have written a lot more JavaScript and TypeScript as it allows me to use the same language on both client and server side and to be proficient in JavaScript as Ruby language.
 
 <p>
-<strong>So I'm learning and currently focusing on Javascript/TypeScript and NodeJS/ExpressJS.</strong>
+<strong>So I'm learning and currently focusing on JavaScript/TypeScript and NodeJS/ExpressJS.</strong>
 </p>
 
 For me, the tools (the programming language and the framework) must make me productive to quickly build (in a few hours) functional prototypes and complete applications in a few days.
