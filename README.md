@@ -15,6 +15,8 @@ For me, the tools (the programming language and the framework) must make me prod
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=francelwebdev&show_icons=true&locale=en&layout=compact" alt="audthecodewitch" /></p>
 
+<p><img src="https://github-readme-stats.vercel.app/api?username=francelwebdev&show_icons=true&locale=en" alt="audthecodewitch" /></p>
+
 
 ### On client side, i use theses tools.
 
