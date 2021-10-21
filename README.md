@@ -12,6 +12,10 @@ I am also learning to create a mobile application with the Ionic Vue and Vue Qua
 
 For me, the tools (the programming language and the framework) must make me productive to quickly build (in a few hours) functional prototypes and complete applications in a few days.
 
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=francelwebdev&show_icons=true&locale=en&layout=compact" alt="audthecodewitch" /></p>
+
+
 ### On client side, i use theses tools.
 
 <div>
