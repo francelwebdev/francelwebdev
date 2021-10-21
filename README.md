@@ -35,9 +35,10 @@ For me, the tools (the programming language and the framework) must make me prod
 <p>
   <img src ="./images/Ruby_logo.svg" alt="Ruby logo" width="8%" title='Ruby'/>
   <img src ="./images/Ruby_On_Rails_Logo.svg" alt="Ruby on Rails logo" width="8%" title='Ruby on Rails'/>
-  <img src ="./images/nodejs.svg" alt="Node logo" width="8%" title='Nodejs'/>
-  <img src ="./images/express.svg" alt="Express logo" width="8%" title='Express'/>
+  <img src ="./images/javascript.svg" alt="JavaScript logo" width="6%" title='JavaScript'/>
   <img src ="./images/Typescript_logo_2020.svg" alt="TypeScript logo" width="8%" title='TypeScript'/>
+  <img src ="./images/nodejs.svg" alt="Node logo" width="8%" title='Nodejs'/>
+  <img src ="./images/express.svg" alt="Express logo" width="8%" title='Express'/>  
   <img src ="./images/logo.png" alt="FoalTS logo" width="8%" title='FoalTS'/>
   <!-- <img src ="./images/logo (1).png" alt="Elixir logo" width="8%" title='Elixir'/>
   <img src ="./images/phoenix-78c0fd3233522383ea9093ef877c8851.png" alt="Elixir logo" width="8%" title='Phoenix'/>
