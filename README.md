@@ -13,14 +13,11 @@ I am also learning to create a mobile application with the Ionic Vue and Vue Qua
 For me, the tools (the programming language and the framework) must make me productive to quickly build (in a few hours) functional prototypes and complete applications in a few days.
 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=francelwebdev&show_icons=true&locale=en&layout=compact" alt="audthecodewitch" /></p>
+### Languages and Tools
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=francelwebdev&show_icons=true&locale=en" alt="audthecodewitch" /></p>
+#### On client side.
 
-
-### On client side, i use theses tools.
-
-<div>
+<p>
   <img src ="./images/html-5.svg" alt="HTML5 logo" width="4%" title='HTML5'/>
   <img src ="./images/css-3.svg" alt="CSS3 logo" width="4%" title='CSS3'/>
   <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="6%" title='Bootstrap'/>
@@ -29,9 +26,9 @@ For me, the tools (the programming language and the framework) must make me prod
   <img src ="./images/vuejs-seeklogo.com.svg" alt="VueJS logo" width="6%" title='VueJS'/>
   <img src ="./images/quasar-logo.svg" alt="Quasar logo" width="6%" title='Quasar'/>
   <img src ="./images/512px-Ionic_Logo.svg.png" alt="Ionic logo" width="6%" title='Ionic'/>
-<div> 
+</p> 
 
-### On server side, i use theses tools.
+#### On server side.
 
 <div>
   <img src ="./images/Ruby_logo.svg" alt="Ruby logo" width="8%" title='Ruby'/>
@@ -46,26 +43,31 @@ For me, the tools (the programming language and the framework) must make me prod
   <img src ="./images/django.svg" alt="Django logo" width="8%" title='Django'/> -->
 </div>
 
-### Database
+#### Database
 
-<div>
+<p>
   <img src ="./images/PostgreSQL_logo.3colors.svg" alt="PostgreSQL logo" width="8%" title='PostgreSQL'/>
   <img src ="./images/logo-mysql-170x115.png" alt="MySQL logo" width="8%" title='MySQL'/>
   <img src ="./images/mongodb.svg" alt="D3 logo" width="8%" title='MongoDB'/>
-</div>
+</p>
 
-<!--
-### Tools
 
-<div>
+#### Tools
+
+<p>
   <img src ="./images/figma.svg" alt="Figma logo" width="8%" title='Figma'/>
   <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="8%" title='Visual Studio Code'/>
   <img src ="./images/git.svg" alt="Git logo" width="8%" title='Git'/>
   <img src ="./images/eslint.svg" alt="ESLint logo" width="8%" title='ESLint'/>
   <img src ="./images/webpack.svg" alt="Webpack logo" width="8%" title='Webpack'/>
   <img src ="./images/nodemon.svg" alt="Nodemon logo" width="8%" title='Nodemon'/> 
-</div>
--->
+</p>
+
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=francelwebdev&show_icons=true&locale=en&layout=compact" alt="audthecodewitch" /></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=francelwebdev&show_icons=true&locale=en" alt="audthecodewitch" /></p>
+
 
 <!-- ## Tech Stacks
 - MEEN Stack
