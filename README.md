@@ -1,6 +1,6 @@
-# Hello and Welcome to my Github profile
+# Hi, I'm Francel AMAMOO, 
 
-My name is Francel AMAMOO, i'm self-taught full stack web developer passionate about web and mobile development and also chatbots development.
+I'm a self-taught full stack web developer passionate about web and mobile development and also chatbots development.
 
 I build GraphQL or REST APIs as a back-end for a VueJS front-end application.
 
