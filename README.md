@@ -70,12 +70,13 @@ For me, the tools (the programming language and the framework) must make me prod
 
 
 ### GitHub Stats
+<hr>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=francelwebdev&show_icons=true&locale=en&layout=compact&langs_count=10&theme=dark" alt="Francel AMAMOO" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=francelwebdev&show_icons=true&locale=en&theme=dark" alt="Francel AMAMOO" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francelwebdev&" alt="Francel AMAMOO" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francelwebdev&theme=dark" alt="Francel AMAMOO" /></p>
 
 
 ## Have a project that use any of the languages, frameworks and tools I use and need a developer to work on it with you ? I'm available to work remotely as a freelance on your  projects. Email me at francel.webdev@gmail.com.
