@@ -1,5 +1,5 @@
 # Hi, I'm Francel AMAMOO
-<hr>
+
 I'm a self-taught full-stack web developer passionate about web and mobile development and also chatbots development.
 
 I build GraphQL APIs or REST APIs as a back-end for a VueJS front-end application.
@@ -16,7 +16,6 @@ For me, the tools (the programming language and the framework) must make me prod
 
 
 ## Programming Languages and Tools I use every days.
-<hr>
 
 #### Client side and Mobile (PWA).
 <p>
@@ -66,7 +65,7 @@ For me, the tools (the programming language and the framework) must make me prod
 
 
 ## My GitHub Stats
-<hr>
+
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=francelwebdev&show_icons=true&locale=en&langs_count=10&theme=dark&layout=default" alt="Francel AMAMOO" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=francelwebdev&show_icons=true&locale=en&theme=dark&layout=default" alt="Francel AMAMOO" /></p>
