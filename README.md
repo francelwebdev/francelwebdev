@@ -6,7 +6,7 @@ I build GraphQL APIs or REST APIs as a back-end for a VueJS front-end applicatio
 
 During my career, I have done a lot of back-end with the Ruby language and the Ruby on Rails framework. I learned a lot of things about web development and also experimented with other languages and frameworks like Python/Django, Elixir/Phoenix, and (PHP/Laravel which I very hate to work with).
 
-Over the past few months I have written a lot more JavaScript and TypeScript as it allows me to use the same language on both client and server side and to be proficient in JavaScript as Ruby language.
+Over the past few months I have written a lot more JavaScript and TypeScript as it allows me to use the same language on both client and server side and to build mobile application with VueJS Quasar framework or with Ionic Vue and to be proficient in JavaScript as Ruby language.
 
 <p>
 <strong>So I'm learning and currently focusing on JavaScript/TypeScript and NodeJS/ExpressJS.</strong>
