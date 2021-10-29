@@ -66,7 +66,7 @@ For me, the tools (the programming language and the framework) must make me prod
 
 ## My GitHub Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=francelwebdev&show_icons=true&locale=en&langs_count=10&layout=default" alt="Francel AMAMOO" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=francelwebdev&show_icons=true&locale=en&layout=default" alt="Francel AMAMOO" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=francelwebdev&show_icons=true&locale=en&layout=default" alt="Francel AMAMOO" /></p>
 
