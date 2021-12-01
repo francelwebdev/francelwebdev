@@ -4,16 +4,9 @@ I'm a self-taught full-stack web developer passionate about web and mobile devel
 
 I build GraphQL APIs or REST APIs as a back-end for a VueJS front-end application.
 
-During my career, I have done a lot of back-end with the Ruby language and the Ruby on Rails framework. I learned a lot of things about web development and also experimented with other languages and frameworks like Python/Django, Elixir/Phoenix, and (PHP/Laravel which I very hate to work with).
-
-Over the past few months I have written a lot more JavaScript and TypeScript as it allows me to use the same language on both client and server side and to build mobile application with VueJS Quasar framework or with Ionic Vue and to be proficient in JavaScript as Ruby language.
-
-<p>
-<strong>So I'm learning and currently focusing on JavaScript/TypeScript and NodeJS/ExpressJS.</strong>
-</p>
+During my career, I have done a lot of back-end with the Ruby language and the Ruby on Rails framework. I learned a lot of things about web development and also experimented with other languages and frameworks like Elixir/Phoenix, JavaScrypt/NodeJS/Express, Python/Django, and PHP/Laravel which I very hate to work with.
 
 For me, the tools (the programming language and the framework) must make me productive to quickly build (in a few hours) functional prototypes and complete applications in a few days.
-
 
 ## Programming Languages and Tools I use every days.
 
