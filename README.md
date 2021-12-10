@@ -66,7 +66,7 @@ For me, the tools (the programming language and the framework) must make me prod
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francelwebdev&show_icons=true&locale=en&layout=default" alt="Francel AMAMOO" /></p>
 
 
-### Have a project that use any of the languages, frameworks and tools I use and need a developer to work on it with you ? I'm available to work remotely as a freelance on your  projects. Email me at francel.webdev@gmail.com.
+### Do you have a project that uses one of the languages I use every days (Ruby or JavaScript) and need a developer to work with you on it? I am available to work and help move the company forward. Just email me francel.webdev@gmail.com or whatsapp +22996619073.
 
 
 <!-- ## Tech Stacks
