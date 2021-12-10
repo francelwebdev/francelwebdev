@@ -4,9 +4,9 @@ I'm a self-taught full-stack web developer passionate about everything related t
 
 I build REST APIs or GraphQL APIs as a back-end for a VueJS based front-end or mobile application.
 
-During my career, I have done a lot of back-end with the Ruby language and the Ruby on Rails framework. I learned a lot of things about web development and also experimented with other languages and frameworks like Elixir/Phoenix, JavaScrypt/NodeJS/Express, Python/Django, and PHP/Laravel which I very hate to work with.
+During my career, I have done a lot of back-end with Ruby language and Ruby on Rails framework. I learned a lot of things about web development and through many technical problems to which I was able to find solutions to progress, I also experimented with other languages and frameworks like JavaScrypt / NodeJS / ExpressJS, Elixir / Phoenix , Python / Django and PHP / Laravel. I'm efficient with the backend in Ruby and JavaScript / NodeJS / ExpressJS.
 
-For me, the tools (the programming language and the framework) must make me productive to quickly build (in a few hours) functional prototypes and complete applications in a few days.
+For me, programming languages and frameworks are tools for building solutions and solving problems, and they must make me productive to quickly build working prototypes and complete solutions within days.
 
 ## Programming Languages and Tools I use every days.
 
