@@ -2,7 +2,7 @@
 
 I'm a self-taught full-stack web developer passionate about everything related to web (request and response Http) and mobile development.
 
-I build REST APIs or GraphQL APIs as a back-end for a VueJS front-end application.
+I build REST APIs or GraphQL APIs as a back-end for a VueJS based front-end or mobile application.
 
 During my career, I have done a lot of back-end with the Ruby language and the Ruby on Rails framework. I learned a lot of things about web development and also experimented with other languages and frameworks like Elixir/Phoenix, JavaScrypt/NodeJS/Express, Python/Django, and PHP/Laravel which I very hate to work with.
 
