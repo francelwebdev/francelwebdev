@@ -1,6 +1,6 @@
 # Hi, I'm Francel AMAMOO
 
-I'm a self-taught full-stack web developer passionate about web, mobile and chatbots development.
+I'm a self-taught full-stack web developer passionate about everything related to web (request and response Http) and mobile development.
 
 I build REST APIs or GraphQL APIs as a back-end for a VueJS front-end application.
 
