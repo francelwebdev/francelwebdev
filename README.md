@@ -1,6 +1,6 @@
 ## Hi, my name is Francel AMAMOO, a Ruby, JavaScript, Elixir & GraphQL Enthusiast.
 
-I'm a self-taught full-stack web developer passionate about everything related to web and mobile development.
+I'm a self-taught full-stack web developer passionate about everything related to web app and mobile app development.
 
 During my career I have done a lot of backend with Ruby and Ruby on Rails and have also experienced JavaScrypt / NodeJS / ExpressJS, Elixir / Phoenix, Python / Django and PHP / Laravel. I love working with Ruby, JavaScript and even Elixir because these three languages just make me productive.
 
