@@ -1,4 +1,4 @@
-# Hi, I'm Francel AMAMOO
+# Hi, I'm Francel AMAMOO (Ruby, JavaScript, Elixir & GraphQL Enthusiast)
 
 I'm a self-taught full-stack web developer passionate about everything related to web (request and response Http) and mobile development.
 
