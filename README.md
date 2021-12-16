@@ -2,7 +2,7 @@
 
 I'm a self-taught full-stack web developer passionate about everything related to web app and mobile app development.
 
-During my career I have done a lot of backend with Ruby and Ruby on Rails and have also experienced JavaScrypt / NodeJS / ExpressJS, Elixir / Phoenix, Python / Django and PHP / Laravel. I love working with Ruby, JavaScript and even Elixir because these three languages just make me productive.
+During my career I have done a lot of backend with Ruby and Ruby on Rails and have also experienced JavaScrypt/NodeJS/ExpressJS, Elixir/Phoenix, Python/Django and PHP/Laravel. I love working with Ruby, JavaScript and Elixir because these three languages just make me productive.
 
 ## Just hire me as a ruby developer and you will see the results.
 
