@@ -39,7 +39,7 @@ I love working with Ruby, JavaScript and Elixir because these three languages ju
   <img src ="./images/mongodb.svg" alt="D3 logo" width="8%" title='MongoDB'/>
 </p>
 
-#### My GitHub Stats
+## My GitHub Stats
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=francelwebdev&show_icons=true&locale=en&layout=default" alt="Francel AMAMOO" /></p>
 
