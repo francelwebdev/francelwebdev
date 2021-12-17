@@ -4,8 +4,6 @@ I'm a self-taught full-stack web developer passionate about everything related t
 
 During my career I have done a lot of backend with Ruby and Ruby on Rails and have also experienced JavaScrypt/NodeJS/ExpressJS, Elixir/Phoenix, Python/Django and PHP/Laravel. I love working with Ruby, JavaScript and Elixir because these three languages just make me productive.
 
-## Just hire me as a Ruby or JavaScript/NodeJS or ELixir developer and you will see the results.
-
 ## Programming Languages and Tools I use.
 
 #### Client side and Mobile.
@@ -47,7 +45,7 @@ During my career I have done a lot of backend with Ruby and Ruby on Rails and ha
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francelwebdev&show_icons=true&locale=en&layout=default" alt="Francel AMAMOO" /></p>
 
-## Just hire me as a Ruby or JavaScript/NodeJS or ELixir developer and you will see the results. I am available to work and help move your company forward. Your can email me francel.webdev@gmail.com or whrite me on whatsapp on +22996619073.
+## Just hire me as a Ruby or JavaScript/NodeJS developer and you will see the results. I am available to work and help move your company forward. Your can email me francel.webdev@gmail.com or whrite me on whatsapp on +22996619073.
 
 
 <!-- ## Tech Stacks
