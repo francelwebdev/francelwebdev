@@ -6,7 +6,7 @@ During my career I have used Ruby and Ruby on Rails a lot (since version 5.0) to
 
 ## I have a dream which is to become an expert Ruby and JavaScript developer, and this through practice and application development.
 
-## Programming Languages and Tools I use.
+## My Tech Stack.
 
 #### Client side and Mobile.
 <p>
