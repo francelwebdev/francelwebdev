@@ -4,6 +4,8 @@ I am a self-taught full-stack web developer.
 
 During my career I have used Ruby and Ruby on Rails a lot (since version 5.0) to build web applications, I have also experienced JavaScrypt / NodeJS / ExpressJS, Elixir / Phoenix, Python / Django and PHP / Laravel and i like to use only ruby or javascript because these languages are clear, concise and readable and makes me productive.
 
+## I have a dream which is to become an expert Ruby and JavaScript developer, and this through practice and application development based on these languages.
+
 ## Programming Languages and Tools I use.
 
 #### Client side and Mobile.
