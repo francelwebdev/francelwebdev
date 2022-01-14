@@ -41,7 +41,6 @@ During my career, I did a lot of backend with Ruby and Ruby on Rails (since Ruby
 
 #### An real estate app 
 <p>
-  ####
   Frontend (VueJS and Quasar framework)
   https://cifoncia.pages.dev/
   
