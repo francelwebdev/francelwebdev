@@ -2,9 +2,7 @@
 
 I am a self-taught full-stack web developer and a Ruby, JavaScript, Elixir, GraphQL Enthusiast.
 
-During my career I have used Ruby and Ruby on Rails a lot (since version 5.0) to build web applications and APIs, I have also experienced JavaScrypt/NodeJS/ExpressJS, Elixir/Phoenix, Python/Django and PHP/Laravel but i like use only Ruby and JavaScript because these languages are clear, concise and readable and makes me productive.
-
-## I have a dream which is to become an expert Ruby and JavaScript developer, and this through practice and application development.
+During my career, I did a lot of backend with Ruby and Ruby on Rails (since Ruby 2.5 and Rails 5.0), I also experimented with JavaScrypt/NodeJS/ExpressJS, Elixir/Phoenix, Python/Django and PHP/Laravel but I like to use only Ruby and JavaScript/NodeJS in backend because I'm comfortable with it. Ruby and JavaScript code is clear, concise and readable and makes me productive.
 
 ## My Tech Stack.
 
