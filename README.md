@@ -37,6 +37,15 @@ During my career, I did a lot of backend with Ruby and Ruby on Rails (since Ruby
   <img src ="./images/mongodb.svg" alt="D3 logo" width="8%" title='MongoDB'/>
 </p>
 
+## My latest side projects I'm working on
+<p>
+  Frontend (VueJS and Quasar framework)
+  https://cifoncia.pages.dev/
+  
+  Backend (NodeJS, ExpressJS, Prisma ORM with PostgreSQL)
+  https://app-immobiliere-prisma-backend.herokuapp.com/
+</p>
+
 ## My GitHub Stats
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=francelwebdev&show_icons=true&locale=en&layout=default" alt="Francel AMAMOO" /></p>
