@@ -45,7 +45,7 @@ During my career, I did a lot of backend with Ruby and Ruby on Rails (since Ruby
   https://cifoncia.pages.dev/
   
   Backend (build with NodeJS, ExpressJS, Prisma ORM with PostgreSQL)
-  https://app-immobiliere-prisma-backend.herokuapp.com/
+  https://cifoncia-prisma-backend.herokuapp.com/
 </p>
 
 ## My GitHub Stats
