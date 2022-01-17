@@ -37,14 +37,13 @@ During my career, I did a lot of backend with Ruby and Ruby on Rails (since Ruby
   <img src ="./images/mongodb.svg" alt="D3 logo" width="8%" title='MongoDB'/>
 </p>
 
-## My latest side projects I'm working on
+## Portfolio (Latest side projects I'm working on)
 
 #### An real estate app 
 <p>
   Frontend (build with VueJS and Quasar framework)
-  https://cifoncia.pages.dev/
-  
-  Backend (build with NodeJS, ExpressJS, Prisma ORM with PostgreSQL)
+  https://cifoncia.pages.dev/  
+  Backend (build with NodeJS, ExpressJS, Prisma ORM)
   https://cifoncia-prisma-backend.herokuapp.com/
 </p>
 
