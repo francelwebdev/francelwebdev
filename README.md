@@ -47,9 +47,10 @@ I am a self-taught full-stack web developer and a Ruby, JavaScript, Elixir progr
   
 </p>
 
+<!--
 ## My GitHub Stats
 
-<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=francelwebdev&show_icons=true&locale=en&layout=default" alt="Francel AMAMOO" /></p>
+ <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=francelwebdev&show_icons=true&locale=en&layout=default" alt="Francel AMAMOO" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=francelwebdev&show_icons=true&locale=en&layout=default" alt="Francel AMAMOO" /></p>
 
