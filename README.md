@@ -4,7 +4,7 @@ I am a self-taught full-stack web developer and a Ruby, JavaScript, Elixir progr
 
 ## My Tech Stack.
 
-#### Client side and Mobile.
+#### Client side.
 <p>
   <img src ="./images/html-5.svg" alt="HTML5 logo" width="4%" title='HTML5'/>
   <img src ="./images/css-3.svg" alt="CSS3 logo" width="4%" title='CSS3'/>
