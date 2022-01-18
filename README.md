@@ -37,7 +37,7 @@ I am a self-taught full-stack web developer and a Ruby, JavaScript, Elixir progr
 
 ## Latest Projects that I have built to practice
 
-#### An real estate app 
+#### An real estate application
 <p>
   https://cifoncia.herokuapp.com/
   
