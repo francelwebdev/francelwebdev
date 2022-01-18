@@ -56,6 +56,8 @@ I am a self-taught full-stack web developer and a Ruby, JavaScript, Elixir progr
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francelwebdev&show_icons=true&locale=en&layout=default" alt="Francel AMAMOO" /></p> -->
 
+<hr>
+
 ### Hire me as a Ruby or JavaScript/NodeJS developer and you will see the results.
 ### Your can email me francel.webdev@gmail.com or whrite me on whatsapp on +22996619073.
 
