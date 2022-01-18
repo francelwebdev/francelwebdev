@@ -39,11 +39,12 @@ I am a self-taught full-stack web developer and a Ruby, JavaScript, Elixir progr
 
 #### An real estate app 
 <p>
-  Frontend (build with VueJS and Quasar framework)
-  https://cifoncia.pages.dev/
+  https://cifoncia.herokuapp.com/
   
-  Backend (build with NodeJS, ExpressJS, Prisma ORM)
-  https://cifoncia-prisma-backend.herokuapp.com/
+  The Frontend is build with VueJS and Quasar framework.
+  <br>
+  The Backend is build with NodeJS, ExpressJS and Prisma ORM.
+  
 </p>
 
 ## My GitHub Stats
