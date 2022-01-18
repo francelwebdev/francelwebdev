@@ -35,7 +35,7 @@ I am a self-taught full-stack web developer and a Ruby, JavaScript, Elixir progr
   <img src ="./images/mongodb.svg" alt="D3 logo" width="8%" title='MongoDB'/>
 </p>
 
-## Portfolio (Latest side projects I'm working on)
+## Latest Projects that I have built to practice
 
 #### An real estate app 
 <p>
