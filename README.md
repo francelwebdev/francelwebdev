@@ -49,13 +49,13 @@ I am a self-taught full-stack web developer and a Ruby, JavaScript, Elixir progr
 
 ## My GitHub Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=francelwebdev&show_icons=true&locale=en&layout=default" alt="Francel AMAMOO" /></p>
+<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=francelwebdev&show_icons=true&locale=en&layout=default" alt="Francel AMAMOO" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=francelwebdev&show_icons=true&locale=en&layout=default" alt="Francel AMAMOO" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francelwebdev&show_icons=true&locale=en&layout=default" alt="Francel AMAMOO" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francelwebdev&show_icons=true&locale=en&layout=default" alt="Francel AMAMOO" /></p> -->
 
-## Just hire me as a Ruby or JavaScript/NodeJS developer and you will see the results. I am available to work and help move your company forward. Your can email me francel.webdev@gmail.com or whrite me on whatsapp on +22996619073.
+## Hire me as a Ruby or JavaScript/NodeJS developer and you will see the results. Your can email me francel.webdev@gmail.com or whrite me on whatsapp on +22996619073.
 
 
 <!-- ## Tech Stacks
