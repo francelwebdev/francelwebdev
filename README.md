@@ -1,6 +1,6 @@
 ## Hi, my name is Francel AMAMOO.
 
-I am a self-taught full-stack web developer and a Ruby, JavaScript, Elixir programming language Enthusiast.
+I am a self-taught full-stack web developer and a Ruby and JavaScript programming language Enthusiast.
 
 ## My Tech Stack.
 
@@ -24,8 +24,8 @@ I am a self-taught full-stack web developer and a Ruby, JavaScript, Elixir progr
   <img src ="./images/express.svg" alt="Express logo" width="8%" title='Express'/>  
   <img src ="./images/Typescript_logo_2020.svg" alt="TypeScript logo" width="8%" title='TypeScript'/>
   <img src ="./images/logo.png" alt="FoalTS logo" width="8%" title='FoalTS'/>
-  <img src ="./images/logo (1).png" alt="Elixir logo" width="8%" title='Elixir'/>
-  <img src ="./images/phoenix-78c0fd3233522383ea9093ef877c8851.png" alt="Elixir logo" width="8%" title='Phoenix'/>
+  <!--<img src ="./images/logo (1).png" alt="Elixir logo" width="8%" title='Elixir'/>
+  <img src ="./images/phoenix-78c0fd3233522383ea9093ef877c8851.png" alt="Elixir logo" width="8%" title='Phoenix'/>-->
 </p>
 
 #### Database.
