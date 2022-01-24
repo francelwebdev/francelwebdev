@@ -1,6 +1,6 @@
 ## Hi, my name is Francel AMAMOO.
 
-I am a self-taught full-stack web developer and a Ruby and JavaScript programming language Enthusiast.
+I am a self-taught full-stack web developer and love building products that make users lives easier.
 
 ## My Tech Stack.
 
