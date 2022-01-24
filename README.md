@@ -47,9 +47,9 @@ Hi, I am Francel AMAMOO. I am a self-taught full-stack web developer and love bu
 <p>
   https://cifoncia.herokuapp.com/
   
-  The Frontend, an VueJS app build with Quasar framework.
+  The Frontend is an VueJS application build with Quasar framework.
   <br>
-  The Backend, an GraphQL API build with NodeJS, ExpressJS, Prisma ORM.
+  The Backend is an GraphQL API build with NodeJS, ExpressJS, Prisma ORM.
   
 </p>
 
