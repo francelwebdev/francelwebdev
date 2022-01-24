@@ -6,7 +6,7 @@
 [![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
 [![Style](https://img.shields.io/badge/Light%20Mode-efefef.svg#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
 
-Hi, my name is Francel AMAMOO. I am a self-taught full-stack web developer and love building products that make users lives easier.
+Hi, I am Francel AMAMOO, a self-taught full-stack web developer and love building products that make users lives easier.
 
 ## My Tech Stack.
 
