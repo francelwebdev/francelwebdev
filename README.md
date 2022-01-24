@@ -41,9 +41,9 @@ I am a self-taught full-stack web developer and a Ruby and JavaScript programmin
 <p>
   https://cifoncia.herokuapp.com/
   
-  The Frontend is build with VueJS and Quasar framework.
+  The Frontend, an VueJS app build with Quasar framework.
   <br>
-  The Backend is build with NodeJS, ExpressJS and Prisma ORM.
+  The Backend, an GraphQL API build with NodeJS, ExpressJS, Prisma ORM.
   
 </p>
 
