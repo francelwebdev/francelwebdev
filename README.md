@@ -8,7 +8,7 @@
 
 Hi, my name is Francel AMAMOO. I am a self-taught full-stack web developer and love building products that make users lives easier.
 
-# My Tech Stack.
+## My Tech Stack.
 
 #### Client side.
 <p>
@@ -41,7 +41,7 @@ Hi, my name is Francel AMAMOO. I am a self-taught full-stack web developer and l
   <img src ="./images/mongodb.svg" alt="D3 logo" width="8%" title='MongoDB'/>
 </p>
 
-## Latest Projects that I have built to practice
+## Recent Projects
 
 #### An real estate application
 <p>
