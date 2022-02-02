@@ -8,6 +8,8 @@
 
 Hi, I am Francel AMAMOO. I am a self-taught full-stack web developer and love building products that make users lives easier.
 
+I am available for a position that includes the use of Node.JS or Ruby on Rails in backend or VueJS in frontend or both.
+
 ## My Tech Stack.
 
 #### Client side.
