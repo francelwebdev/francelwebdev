@@ -53,7 +53,7 @@ Your can email me francel.webdev@gmail.com or whrite me on whatsapp on +22996619
   
   The Frontend is an VueJS application build with Quasar framework.
   <br>
-  The Backend is an GraphQL API build with NodeJS, ExpressJS, Prisma ORM.
+  The Backend is an GraphQL API build with NodeJS, ExpressJS, Express-graphql, Graphql-tools, Prisma ORM.
   
 </p>
 
