@@ -10,6 +10,8 @@ Hi, I am Francel AMAMOO. I am a self-taught full-stack web developer and love bu
 
 I am available for a position that includes the use of Node.JS or Ruby on Rails in backend or VueJS in frontend or both.
 
+Your can email me francel.webdev@gmail.com or whrite me on whatsapp on +22996619073.
+
 ## My Tech Stack.
 
 #### Client side.
@@ -64,9 +66,6 @@ I am available for a position that includes the use of Node.JS or Ruby on Rails 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francelwebdev&show_icons=true&locale=en&layout=default" alt="Francel AMAMOO" /></p> -->
 
-<hr>
-
-### Your can email me francel.webdev@gmail.com or whrite me on whatsapp on +22996619073.
 
 
 <!-- ## Tech Stacks
