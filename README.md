@@ -6,11 +6,13 @@
 [![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
 [![Style](https://img.shields.io/badge/Light%20Mode-efefef.svg#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
 
-Hi, I am Francel AMAMOO. I am a self-taught full-stack web developer without a degree and love building products that make users lives easier.
+Hi, I am Francel AMAMOO. I am a self-taught back-end developer without a degree and love building products that make users lives easier.
 
-I am available for a position that includes the use of Node.JS or Ruby on Rails in backend or VueJS in frontend or both.
+During my career I have done a lot of back-end tasks using Ruby and Ruby on Rails.
 
-Your can email me francel.webdev@gmail.com or whrite me on whatsapp on +22996619073.
+<-- I am available for a position that includes the use of Node.JS or Ruby on Rails in backend or VueJS in frontend or both.
+
+Your can email me francel.webdev@gmail.com or whrite me on whatsapp on +22996619073. -->
 
 ## My Tech Stack.
 
