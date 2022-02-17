@@ -10,7 +10,7 @@ Hi, I am Francel AMAMOO. I am a self-taught back-end developer without a degree 
 
 During my career I have done a lot of back-end tasks using Ruby and Ruby on Rails.
 
-<-- I am available for a position that includes the use of Node.JS or Ruby on Rails in backend or VueJS in frontend or both.
+<!-- I am available for a position that includes the use of Node.JS or Ruby on Rails in backend or VueJS in frontend or both.
 
 Your can email me francel.webdev@gmail.com or whrite me on whatsapp on +22996619073. -->
 
