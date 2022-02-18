@@ -18,7 +18,6 @@ I love working on products that meet a need or solve a problem and I love using 
 <p>
   <img src ="./images/html-5.svg" alt="HTML5 logo" width="4%" title='HTML5'/>
   <img src ="./images/css-3.svg" alt="CSS3 logo" width="4%" title='CSS3'/>
-  <img src ="./images/sass.svg" alt="Sass logo" width="6%" title='Sass'/>
   <img src ="./images/javascript.svg" alt="JavaScript logo" width="6%" title='JavaScript'/>
   <img src ="./images/vuejs-seeklogo.com.svg" alt="VueJS logo" width="6%" title='VueJS'/>
   <img src ="./images/quasar-logo.svg" alt="Quasar logo" width="6%" title='Quasar'/>
