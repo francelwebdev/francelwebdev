@@ -6,11 +6,11 @@
 [![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
 [![Style](https://img.shields.io/badge/Light%20Mode-efefef.svg#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
 
-I am Francel AMAMOO. I am a self-taught back-end developer without a degree in computer science, passionate about web, mobile and blockchain development.
+I am Francel AMAMOO. I am a self-taught full-stack web developer passionate without a degree in computer science.
 
-I mainly write Ruby and JavaScript code and I'm learning NodeJS and TypeScript. I am comfortable with Ruby on Rails and ExpressJS.
+I've done a lot of backend in my career and for my side projects I've had to do both backend and frontend. For that, I consider myself as a full-stack web developer.
 
-I love working on products that meet a need or solve a problem and I love using Ruby or JavaScript to achieve goals.
+I am comfortable with Ruby on Rails, ExpressJS, FoalTS, TypeScript in back-end and with VueJS, Quasar, NuxtJS in front-end.
 
 ## My Tech Stack.
 
