@@ -8,9 +8,9 @@
 
 I am a self-taught full-stack web developer working only with web technologies for over a 5 years.
 
-In front-end I work primarily with JavaScript, VueJS, Quasar, NuxtJS.
+In front-end I work only with JavaScript, VueJS, Quasar, NuxtJS.
 
-In back-end I work primarily with Ruby, Ruby on Rails, or with JavaScript, TypeScript, NodeJS/ExpressJS/FoalTS.
+In back-end I work only with Ruby, Ruby on Rails, or with JavaScript, TypeScript, NodeJS/ExpressJS/FoalTS.
 
 ## My Tech Stack.
 
