@@ -12,7 +12,7 @@ In front-end I work only with JavaScript, VueJS, Quasar, NuxtJS.
 
 In back-end I work only with Ruby, Ruby on Rails, or with JavaScript, TypeScript, NodeJS/ExpressJS/FoalTS.
 
-## My Tech Stack.
+## Skills.
 
 #### Client side.
 <p>
