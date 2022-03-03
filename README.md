@@ -6,11 +6,11 @@
 [![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
 [![Style](https://img.shields.io/badge/Light%20Mode-efefef.svg#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
 
-I am Francel AMAMOO. I am a self-taught full-stack web developer passionate without a degree in computer science.
+I am Francel AMAMOO. I am a self-taught middle full-stack web developer working with web technologies for over a 5 years.
 
-I've done a lot of backend in my career and for my side projects I've had to do both backend and frontend. For that, I consider myself as a full-stack web developer.
+In front-end I work primarily with JavaScript, VueJS, Quasar, NuxtJS.
 
-I am comfortable with Ruby on Rails, ExpressJS, FoalTS, TypeScript in back-end and with VueJS, Quasar, NuxtJS in front-end.
+In back-end I work primarily with Ruby, Ruby on Rails, or with JavaScript, TypeScript, NodeJS/ExpressJS/FoalTS.
 
 ## My Tech Stack.
 
