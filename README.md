@@ -8,9 +8,9 @@
 
 I am a self-taught full-stack web developer, working with web technologies for over 5 years.
 
-In Back-end I have a solid experience with Ruby on Rails, NodeJS, ExpressJS, FoalTS.
+In Back-end I have experience with Ruby on Rails, NodeJS, ExpressJS, FoalTS.
 
-In front-end I have a solid experience with VueJS, ViteJS, Quasar, NuxtJS.
+In front-end I have experience with VueJS, ViteJS, Quasar, NuxtJS.
 
 ## Skills.
 
