@@ -58,6 +58,7 @@ Need a developer with these skills  ? Send me a message.
   
 </p>
 
+<!-- 
 ## My GitHub Stats
 
  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=francelwebdev&show_icons=true&locale=en&layout=default" alt="Francel AMAMOO" /></p>
@@ -65,8 +66,7 @@ Need a developer with these skills  ? Send me a message.
 <p><img src="https://github-readme-stats.vercel.app/api?username=francelwebdev&show_icons=true&locale=en&layout=default" alt="Francel AMAMOO" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francelwebdev&show_icons=true&locale=en&layout=default" alt="Francel AMAMOO" /></p>
-
-
+ -->
 
 <!-- ## Tech Stacks
 - MEEN Stack
