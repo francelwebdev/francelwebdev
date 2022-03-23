@@ -6,13 +6,13 @@
 [![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
 [![Style](https://img.shields.io/badge/Light%20Mode-efefef.svg#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
 
-I am a self-taught full-stack web developer, working with web technologies for over 5 years.
+I am a self-taught back-stack web developer, working with web technologies for over 5 years.
+
+I'm more comfortable in back-end than front-end.
 
 In back-end I have experience with Ruby on Rails, NodeJS, ExpressJS, FoalTS, AdonisJS.
 
 In front-end I have experience with VueJS, Quasar, NuxtJS.
-
-Need a developer with these skills  ? Send me a message.
 
 ## Skills.
 
