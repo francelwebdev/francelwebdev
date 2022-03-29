@@ -10,14 +10,10 @@ I am a full-stack Ruby on Rails developer with more than 5 years of practice.
 Due to the difficulty of finding a job that included the use of Ruby on Rails, I decided to switch to NodeJS and use a single programming language (JavaScript) everywhere: front-end, back-end and mobile development .
 I therefore now mainly focus on these technologies:
 
-- Front-end development
-        Javascript/VueJS
-- Mobile development
-        JavaScript / VueJS / Ionic / Capacitor / Quasar
-- Back-end development
-        JavaScript / NodeJS / ExpressJS / FastifyJS / GraphQL
-- Data base
-        MongoDB and traditional SQL databases
+- Front-end development : Javascript/VueJS
+- Mobile development : JavaScript / VueJS / Ionic / Capacitor / Quasar
+- Back-end development : JavaScript / NodeJS / ExpressJS / FastifyJS / GraphQL
+- Databases : MongoDB and traditional SQL databases
 
 ## Skills.
 
