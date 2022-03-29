@@ -6,14 +6,16 @@
 [![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
 [![Style](https://img.shields.io/badge/Light%20Mode-efefef.svg#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
 
-I am a full-stack Ruby on Rails developer with more than 5 years of practice.
-Due to the difficulty of finding a job that included the use of Ruby on Rails, I decided to switch to NodeJS and use a single programming language (JavaScript) everywhere: front-end, back-end and mobile development .
+I am an experienced Ruby on Rails developer.
+Since my last job, I decided to switch to NodeJS and use a single programming language (JavaScript) everywhere: front-end, back-end and mobile development.
 I therefore now mainly focus on these technologies:
 
-- Front-end development : Javascript/VueJS
-- Mobile development : JavaScript / VueJS / Ionic / Capacitor / Quasar
-- Back-end development : JavaScript / NodeJS / ExpressJS / FastifyJS / GraphQL
-- Databases : MongoDB and traditional SQL databases
+- Front-end development: Javascript / VueJS
+- Mobile development: JavaScript / VueJS / Ionic / Capacitor / Quasar
+- Back-end development: JavaScript / NodeJS / ExpressJS / FastifyJS / GraphQL
+- Databases: MongoDB and traditional SQL databases
+
+So, I love working with "fun" programming languages because it makes me productive and I feel like I have superpowers when I code in those languages. For me these programming languages are: Ruby, JavaScript, Python or Elixir.
 
 ## Skills.
 
