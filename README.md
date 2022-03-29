@@ -19,7 +19,7 @@ So, I love working with "fun" programming languages because it makes me producti
 
 ## Skills.
 
-#### Client side.
+#### Front-end.
 <p>
   <img src ="./images/html-5.svg" alt="HTML5 logo" width="4%" title='HTML5'/>
   <img src ="./images/css-3.svg" alt="CSS3 logo" width="4%" title='CSS3'/>
@@ -29,7 +29,7 @@ So, I love working with "fun" programming languages because it makes me producti
   <img src ="./images/512px-Ionic_Logo.svg.png" alt="Ionic logo" width="6%" title='Ionic'/>
 </p>
 
-#### Server side.
+#### Back-end.
 <p>
   <img src ="./images/Ruby_logo.svg" alt="Ruby logo" width="8%" title='Ruby'/>
   <img src ="./images/Ruby_On_Rails_Logo.svg" alt="Ruby on Rails logo" width="8%" title='Ruby on Rails'/>
@@ -42,7 +42,7 @@ So, I love working with "fun" programming languages because it makes me producti
   <img src ="./images/phoenix-78c0fd3233522383ea9093ef877c8851.png" alt="Elixir logo" width="8%" title='Phoenix'/>-->
 </p>
 
-#### Database.
+#### Databases.
 <p>
   <img src ="./images/PostgreSQL_logo.3colors.svg" alt="PostgreSQL logo" width="8%" title='PostgreSQL'/>
   <img src ="./images/logo-mysql-170x115.png" alt="MySQL logo" width="8%" title='MySQL'/>
