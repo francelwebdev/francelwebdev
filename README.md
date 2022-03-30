@@ -6,16 +6,16 @@
 [![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
 [![Style](https://img.shields.io/badge/Light%20Mode-efefef.svg#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
 
-I am an experienced Ruby on Rails developer.
-Since my last job, I decided to switch to NodeJS and use a single programming language (JavaScript) everywhere: front-end, back-end and mobile development.
-I therefore now mainly focus on these technologies:
+Je suis un développeur Ruby on Rails expérimenté.
+En raison de la difficulté de trouver un emploi qui inclut l'utilisation du langage Ruby et du framework Ruby on Rails avec lequel j'ai plus d'expérience, j'ai décidé de passer à NodeJS et d'utiliser un seul langage de programmation "JavaScript" partout : front-end, back-end et mobile.
+Je me concentre désormais principalement sur ces technologies :
 
-- Front-end development: Javascript / VueJS
-- Mobile development: JavaScript / VueJS / Ionic / Capacitor / Quasar
-- Back-end development: JavaScript / NodeJS / ExpressJS / FastifyJS / GraphQL
-- Databases: MongoDB and traditional SQL databases
+- Front-end : Javascript / VueJS.
+- Back-end : JavaScript / NodeJS / ExpressJS / FastifyJS / GraphQL.
+- Mobile : JavaScript / VueJS / Ionic / Capacitor / Quasar.
+- Bases de données : MongoDB et bases de données SQL traditionnelles.
 
-So, I love working with "fun" programming languages because it makes me productive and I feel like I have superpowers when I code in those languages. For me these programming languages are: Ruby, JavaScript, Python or Elixir.
+J'adore travailler avec des langages de programmation "amusants" car cela me rend productif et j'ai l'impression d'avoir des superpouvoirs lorsque je code dans ces langages. Pour moi, ces langages de programmation sont : Ruby, JavaScript, Python ou Elixir.
 
 ## Skills.
 
