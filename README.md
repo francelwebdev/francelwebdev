@@ -6,16 +6,13 @@
 [![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
 [![Style](https://img.shields.io/badge/Light%20Mode-efefef.svg#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
 
-Je suis un développeur Ruby on Rails expérimenté.
-En raison de la difficulté de trouver un emploi qui inclut l'utilisation du langage Ruby et du framework Ruby on Rails avec lequel j'ai plus d'expérience, j'ai décidé de passer à NodeJS et d'utiliser un seul langage de programmation "JavaScript" partout : front-end, back-end et mobile.
-Je me concentre désormais principalement sur ces technologies :
+Hi, I’m Francel AMAMOO
 
-- Front-end : Javascript / VueJS.
-- Back-end : JavaScript / NodeJS / ExpressJS / FastifyJS / GraphQL.
-- Mobile : JavaScript / VueJS / Ionic / Capacitor / Quasar.
-- Bases de données : MongoDB et bases de données SQL traditionnelles.
+I'm Backend Ruby developer with more than 5 years of experience and now focused on JavaScript and TypeScript and now able to do Mobile and Fullstack with : VueJS • Quasar Framework • Ionic Framework • Framework7 • NodeJS • ExpressJS • RestifyJS • FastifyJS and GraphQLJS.
 
-J'adore travailler avec des langages de programmation "amusants" car cela me rend productif et j'ai l'impression d'avoir des superpouvoirs lorsque je code dans ces langages. Pour moi, ces langages de programmation sont : Ruby, JavaScript, Python ou Elixir.
+I'm also leaning Elixir langage et it framework Phoenix.
+
+How to reach me : francel.webdev@gmail.com
 
 ## Skills.
 
