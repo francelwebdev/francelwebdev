@@ -6,13 +6,17 @@
 [![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
 [![Style](https://img.shields.io/badge/Light%20Mode-efefef.svg#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
 
-Hi, I’m Francel AMAMOO
+I am Francel AMAMOO
 
-I'm Backend Ruby developer with more than 5 years of experience and now focused on JavaScript and TypeScript and now able to do Mobile and Fullstack with : VueJS • Quasar Framework • Ionic Framework • Framework7 • NodeJS • ExpressJS • RestifyJS • FastifyJS and GraphQLJS.
+I'm a Ruby developer with over 5 years of practice, it's my favorite programming language and my first choice. Now I am learning and focusing on JavaScript and TypeScript as a second programming language.
 
-I'm also leaning Elixir langage et it framework Phoenix.
+I am now able to do Fullstack and build mobile applications with: VueJS (Quasar Framework • Ionic Framework • Framework7) and able to build RESTful and GraphQL APIs with NodeJS (ExpressJS • FastifyJS • RestifyJS).
 
-How to reach me : francel.webdev@gmail.com
+I also learn and practice the Elixir language as the third and last programming language (Life is short).
+
+If you need a developer for your Ruby on Rails, ExpressJS, FastifyJS, VueJS or Elixir/Phoenix project, don't hesitate to contact me.
+
+My Email: francel.webdev@gmail.com
 
 ## Skills.
 
