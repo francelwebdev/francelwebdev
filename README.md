@@ -8,7 +8,7 @@
 
 I am Francel AMAMOO
 
-I'm a Ruby developer with over 5 years of practice, it's my favorite programming language and my first choice. Now I am learning and focusing on JavaScript and TypeScript as a second programming language.
+I'm a Ruby developer with over 5 years of practice, Ruby is my favorite programming language and my first choice. Now I am learning and focusing on JavaScript and TypeScript as a second programming language.
 
 I am now able to do Fullstack and build mobile applications with: VueJS (Quasar Framework • Ionic Framework • Framework7) and able to build RESTful and GraphQL APIs with NodeJS (ExpressJS • FastifyJS • RestifyJS).
 
