@@ -51,12 +51,12 @@ So I can :
 
 #### An real estate application
 <p>
-  https://cifoncia-francelwebdev.koyeb.app/
+  UI: https://cifoncia.pages.dev
+  API: https://cifoncia-api.herokuapp.com/
   
   The Frontend is an VueJS application build with Quasar framework.
   <br>
-  The Backend is an GraphQL API build with NodeJS, ExpressJS, Express-graphql, Graphql-tools, Prisma ORM.
-  
+  The Backend is an GraphQL API build with NodeJS, ExpressJS, Express-graphql, Graphql-tools & Prisma ORM.
 </p>
 
 <!-- 
