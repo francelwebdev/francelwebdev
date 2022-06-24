@@ -13,7 +13,7 @@ Due to the lack of jobs requiring Ruby and Ruby on Rails skills, I switched to J
 
 So I can :
 - Build RESTful and GraphQL APIs using: Ruby on Rails, ExpressJS & Phoenix.
-- Build user interfaces: VueJS.
+- Build user interfaces using: VueJS.
 
 ## Skills.
 
