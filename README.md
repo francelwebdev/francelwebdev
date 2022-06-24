@@ -8,15 +8,12 @@
 
 I am Francel AMAMOO
 
-I'm a Ruby developer with over 5 years of practice, Ruby is my favorite programming language and my first choice. Now I am learning and focusing on JavaScript and TypeScript as a second programming language.
+I'm a Ruby backend developer with over 5 years of experience, Ruby is my favorite programming language.
+Due to the lack of jobs requiring Ruby and Ruby on Rails skills, I switched to JavaScript & ExpressJS and now focus on them. I am also learning Elixir and Phoenix.
 
-I am now able to do Fullstack and build mobile applications with: VueJS (Quasar Framework • Ionic Framework • Framework7) and able to build RESTful and GraphQL APIs with NodeJS (ExpressJS • FastifyJS • RestifyJS).
-
-I also learn and practice the Elixir language as the third and last programming language (Life is short).
-
-If you need a developer for your Ruby on Rails, ExpressJS, FastifyJS, VueJS or Elixir/Phoenix project, don't hesitate to contact me.
-
-My Email: francel.webdev@gmail.com
+So I can :
+- Build RESTful and GraphQL APIs using: Ruby on Rails, ExpressJS & Phoenix.
+- Build user interfaces: VueJS.
 
 ## Skills.
 
