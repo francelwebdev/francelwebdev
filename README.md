@@ -8,12 +8,15 @@
 
 I am Francel AMAMOO
 
-I'm a Ruby backend developer with over 5 years of experience, Ruby is my favorite programming language.
-Due to the lack of jobs requiring Ruby and Ruby on Rails skills, I switched to JavaScript & ExpressJS and now focus on them. I am also learning Elixir and Phoenix.
+I'm a Self-taught Fullstack JavaScript developer. Open-minded and Introverted. Web3, Cryptocurrencies, Decentralized Finance (DeFi) and Blockchain enthusiast.
 
-So I can :
-- Build RESTful and GraphQL APIs using: Ruby on Rails, ExpressJS & Phoenix.
-- Build user interfaces using: VueJS.
+I speak JavaScript and Ruby better than my mother tongue. All my side projects are build in ExpressJS, Ruby on Rails for server-side and VueJS for client side.
+
+Tech stacks I'm familiar with are:
+
+- Vuejs, SvelteJS (for client side).
+- MongoDB/PostgreSQL, ExpressJS/FastifyJS, NodeJS (for server-side).
+- Ruby on Rails.
 
 ## Skills.
 
