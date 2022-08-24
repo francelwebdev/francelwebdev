@@ -6,17 +6,17 @@
 [![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
 [![Style](https://img.shields.io/badge/Light%20Mode-efefef.svg#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
 
-I am Francel AMAMOO
+Back-end developer, now focused on using JavaScript everywhere.
 
-I'm a Self-taught Fullstack JavaScript developer. Open-minded and Introverted. Web3, Cryptocurrencies, Decentralized Finance (DeFi) and Blockchain enthusiast.
+- (4+ using Ruby and Ruby on Rails), (2+ using Python and Django), (1+ using NodeJS, ExpressJS, FastifyJS, FoalTS...), proficiency building RESTful and GraphQL API.
+- PostgreSQL, MySQL, MariaDB, CockroachDB, MongoDB.
+- little knowledge with Elixir programming language and Phoenix framework.
+- little knowledge in Front-end (VueJS).
+- deploy to cloud PaaS (Heroku...).
 
-I speak JavaScript and Ruby better than my mother tongue. All my side projects are build in ExpressJS, Ruby on Rails for server-side and VueJS for client side.
+Favorite hobby : learn new thing about coding, best practice, experiment thing using my preferred programming languages.
 
-Tech stacks I'm familiar with are:
-
-- Vuejs, SvelteJS (for client side).
-- MongoDB/PostgreSQL, ExpressJS/FastifyJS, NodeJS (for server-side).
-- Ruby on Rails.
+Let me know if you need any help or collaboration on web projects using any of these technologies, and your issues will be resolved faster than you can imagine.
 
 ## Skills.
 
