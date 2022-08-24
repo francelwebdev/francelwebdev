@@ -6,12 +6,12 @@
 [![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
 [![Style](https://img.shields.io/badge/Light%20Mode-efefef.svg#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
 
-Back-end developer, now focused on using JavaScript everywhere.
-
 - (4+ using Ruby and Ruby on Rails), (2+ using Python and Django), (1+ using NodeJS, ExpressJS, FastifyJS, FoalTS...), experience in building RESTful API and GraphQL API, PostgreSQL, MySQL, MariaDB, CockroachDB, MongoDB for data store.
 - little knowledge with Elixir programming language and Phoenix framework.
 - little knowledge in Front-end (VueJS).
 - deploy to cloud (Heroku and other PaaS provider).
+
+Now I'm focused on using JavaScript everywhere.
 
 Favorite hobby : learn new thing about coding, best practice, experiment thing using my preferred programming languages.
 
