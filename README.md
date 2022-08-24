@@ -20,16 +20,6 @@ Let me know if you need any help or collaboration on web projects using any of t
 
 ## Skills.
 
-#### Front-end.
-<p>
-  <img src ="./images/html-5.svg" alt="HTML5 logo" width="4%" title='HTML5'/>
-  <img src ="./images/css-3.svg" alt="CSS3 logo" width="4%" title='CSS3'/>
-  <img src ="./images/javascript.svg" alt="JavaScript logo" width="6%" title='JavaScript'/>
-  <img src ="./images/vuejs-seeklogo.com.svg" alt="VueJS logo" width="6%" title='VueJS'/>
-  <img src ="./images/quasar-logo.svg" alt="Quasar logo" width="6%" title='Quasar'/>
-  <img src ="./images/512px-Ionic_Logo.svg.png" alt="Ionic logo" width="6%" title='Ionic'/>
-</p>
-
 #### Back-end.
 <p>
   <img src ="./images/Ruby_logo.svg" alt="Ruby logo" width="8%" title='Ruby'/>
@@ -48,6 +38,16 @@ Let me know if you need any help or collaboration on web projects using any of t
   <img src ="./images/PostgreSQL_logo.3colors.svg" alt="PostgreSQL logo" width="8%" title='PostgreSQL'/>
   <img src ="./images/logo-mysql-170x115.png" alt="MySQL logo" width="8%" title='MySQL'/>
   <img src ="./images/mongodb.svg" alt="D3 logo" width="8%" title='MongoDB'/>
+</p>
+
+#### Front-end.
+<p>
+  <img src ="./images/html-5.svg" alt="HTML5 logo" width="4%" title='HTML5'/>
+  <img src ="./images/css-3.svg" alt="CSS3 logo" width="4%" title='CSS3'/>
+  <img src ="./images/javascript.svg" alt="JavaScript logo" width="6%" title='JavaScript'/>
+  <img src ="./images/vuejs-seeklogo.com.svg" alt="VueJS logo" width="6%" title='VueJS'/>
+  <img src ="./images/quasar-logo.svg" alt="Quasar logo" width="6%" title='Quasar'/>
+  <img src ="./images/512px-Ionic_Logo.svg.png" alt="Ionic logo" width="6%" title='Ionic'/>
 </p>
 
 ## Recent Projects
