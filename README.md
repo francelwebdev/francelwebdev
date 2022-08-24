@@ -8,8 +8,7 @@
 
 Back-end developer, now focused on using JavaScript everywhere.
 
-- (4+ using Ruby and Ruby on Rails), (2+ using Python and Django), (1+ using NodeJS, ExpressJS, FastifyJS, FoalTS...), experience in building RESTful API and GraphQL API.
-- PostgreSQL, MySQL, MariaDB, CockroachDB, MongoDB.
+- (4+ using Ruby and Ruby on Rails), (2+ using Python and Django), (1+ using NodeJS, ExpressJS, FastifyJS, FoalTS...), experience in building RESTful API and GraphQL API, PostgreSQL, MySQL, MariaDB, CockroachDB, MongoDB.
 - little knowledge with Elixir programming language and Phoenix framework.
 - little knowledge in Front-end (VueJS).
 - deploy to cloud PaaS (Heroku...).
@@ -31,10 +30,6 @@ Let me know if you need any help or collaboration on web projects using any of t
   <img src ="./images/logo.png" alt="FoalTS logo" width="8%" title='FoalTS'/>
   <!--<img src ="./images/logo (1).png" alt="Elixir logo" width="8%" title='Elixir'/>
   <img src ="./images/phoenix-78c0fd3233522383ea9093ef877c8851.png" alt="Elixir logo" width="8%" title='Phoenix'/>-->
-</p>
-
-#### Databases.
-<p>
   <img src ="./images/PostgreSQL_logo.3colors.svg" alt="PostgreSQL logo" width="8%" title='PostgreSQL'/>
   <img src ="./images/logo-mysql-170x115.png" alt="MySQL logo" width="8%" title='MySQL'/>
   <img src ="./images/mongodb.svg" alt="D3 logo" width="8%" title='MongoDB'/>
