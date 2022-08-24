@@ -53,9 +53,9 @@ Let me know if you need any help or collaboration on web projects using any of t
   <br>
   API: https://cifoncia-api.herokuapp.com/
   
-  The Frontend is an VueJS application build with Quasar framework.
+  UI is build with VueJS and Quasar framework.
   <br>
-  The Backend is an GraphQL API build with NodeJS, ExpressJS, Express-graphql, Graphql-tools & Prisma ORM.
+  API is an GraphQL API build with ExpressJS, Express-graphql, Graphql-tools and Prisma ORM.
 </p>
 
 <!-- 
