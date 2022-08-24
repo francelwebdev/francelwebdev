@@ -49,7 +49,7 @@ Let me know if you need any help or collaboration on web projects using any of t
 
 #### An real estate application
 <p>
-  UI: https://cifoncia.pages.dev
+  UI: https://cifoncia.vercel.app/
   <br>
   API: https://cifoncia-api.herokuapp.com/
   
