@@ -8,10 +8,10 @@
 
 Back-end developer, now focused on using JavaScript everywhere.
 
-- (4+ using Ruby and Ruby on Rails), (2+ using Python and Django), (1+ using NodeJS, ExpressJS, FastifyJS, FoalTS...), experience in building RESTful API and GraphQL API, PostgreSQL, MySQL, MariaDB, CockroachDB, MongoDB.
+- (4+ using Ruby and Ruby on Rails), (2+ using Python and Django), (1+ using NodeJS, ExpressJS, FastifyJS, FoalTS...), experience in building RESTful API and GraphQL API, PostgreSQL, MySQL, MariaDB, CockroachDB, MongoDB for data store.
 - little knowledge with Elixir programming language and Phoenix framework.
 - little knowledge in Front-end (VueJS).
-- deploy to cloud PaaS (Heroku...).
+- deploy to cloud (Heroku and other PaaS provider).
 
 Favorite hobby : learn new thing about coding, best practice, experiment thing using my preferred programming languages.
 
