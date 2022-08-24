@@ -8,7 +8,7 @@
 
 Back-end developer, now focused on using JavaScript everywhere.
 
-- (4+ using Ruby and Ruby on Rails), (2+ using Python and Django), (1+ using NodeJS, ExpressJS, FastifyJS, FoalTS...), proficiency building RESTful and GraphQL API.
+- (4+ using Ruby and Ruby on Rails), (2+ using Python and Django), (1+ using NodeJS, ExpressJS, FastifyJS, FoalTS...), experience in building RESTful API and GraphQL API.
 - PostgreSQL, MySQL, MariaDB, CockroachDB, MongoDB.
 - little knowledge with Elixir programming language and Phoenix framework.
 - little knowledge in Front-end (VueJS).
@@ -16,7 +16,7 @@ Back-end developer, now focused on using JavaScript everywhere.
 
 Favorite hobby : learn new thing about coding, best practice, experiment thing using my preferred programming languages.
 
-Let me know if you need any help or collaboration on web projects using any of these technologies, and your issues will be resolved faster than you can imagine.
+Let me know if you need any help or collaboration on web projects using any of these technologies.
 
 ## Skills.
 
