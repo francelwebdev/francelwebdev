@@ -9,14 +9,14 @@
 Tech stack I love using.
 
 - (4+ using Ruby and Ruby on Rails), (2+ using NodeJS, ExpressJS, FastifyJS, FoalTS...), experience in building RESTful API and GraphQL API, PostgreSQL, MySQL, MariaDB, CockroachDB, MongoDB for data store.
-- little knowledge with Python, Django and Flask. 
-- little knowledge with Elixir programming language and Phoenix framework.
-- little knowledge in Front-end (VueJS).
-- deploy to cloud (Heroku and other PaaS provider).
+- little knowledge of Python, Django and Flask. 
+- little knowledge of Elixir programming language and Phoenix framework.
+- little knowledge of Front-end (VueJS).
+- deploy to the cloud (Heroku and other PaaS provider).
 
 Now I'm focused on using JavaScript everywhere.
 
-Favorite hobby : learn new thing about coding, best practice, experiment thing using my preferred programming languages.
+Favorite hobby : learning new things about coding, best practice, experimenting thing using my preferred programming languages.
 
 Let me know if you need any help or collaboration on web projects using any of these technologies.
 
