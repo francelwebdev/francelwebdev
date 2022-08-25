@@ -46,7 +46,18 @@ Let me know if you need any help or collaboration on web projects using any of t
 
 ## Latest Projects
 
-#### An real estate application
+#### An dating app
+<p>
+  UI: https://belle-forme-ui.vercel.app/
+  <br>
+  API: 
+  
+  UI is build with VueJS and Quasar framework.
+  <br>
+  API is an RESTful API build with FoalTS and Prisma ORM.
+</p>
+
+#### An real estate app
 <p>
   UI: https://cifoncia.vercel.app/
   <br>
