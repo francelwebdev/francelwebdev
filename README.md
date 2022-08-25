@@ -50,7 +50,7 @@ Let me know if you need any help or collaboration on web projects using any of t
 <p>
   UI: https://belleforme.vercel.app/
   <br>
-  API: 
+  API: https://belleforme-api.herokuapp.com/
   
   UI is build with VueJS and Quasar framework.
   <br>
