@@ -12,7 +12,7 @@
 - little knowledge of Front-end (VueJS).
 - deploy to the cloud (Heroku and other PaaS provider).
 
-Favorite hobby : learning new things about coding, best practice, and writing code using my preferred programming languages.
+Favorite hobby : learning things about coding, coding best practice, writing code using my favorite preferred programming languages (Ruby, JavaScript and Python) and contribute to open source project on GitHub.
 
 Let me know if you need any help or collaboration on web projects using any of these technologies.
 
