@@ -48,7 +48,7 @@ Let me know if you need any help or collaboration on web projects using any of t
 
 #### An dating app
 <p>
-  UI: https://belle-forme-ui.vercel.app/
+  UI: https://belleforme.vercel.app/
   <br>
   API: 
   
