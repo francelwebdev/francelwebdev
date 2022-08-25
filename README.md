@@ -6,17 +6,13 @@
 [![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
 [![Style](https://img.shields.io/badge/Light%20Mode-efefef.svg#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
 
-Tech stack I love using.
-
 - (4+ using Ruby and Ruby on Rails), (2+ using NodeJS, ExpressJS, FastifyJS, FoalTS...), experience in building RESTful API and GraphQL API, PostgreSQL, MySQL, MariaDB, CockroachDB, MongoDB for data store.
 - little knowledge of Python, Django and Flask. 
 - little knowledge of Elixir programming language and Phoenix framework.
 - little knowledge of Front-end (VueJS).
 - deploy to the cloud (Heroku and other PaaS provider).
 
-Now I'm focused on using JavaScript everywhere.
-
-Favorite hobby : learning new things about coding, best practice, experimenting thing using my preferred programming languages.
+Favorite hobby : learning new things about coding, best practice, and writing code using my preferred programming languages.
 
 Let me know if you need any help or collaboration on web projects using any of these technologies.
 
