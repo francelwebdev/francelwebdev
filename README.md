@@ -44,7 +44,7 @@ Let me know if you need any help or collaboration on web projects using any of t
   <img src ="./images/512px-Ionic_Logo.svg.png" alt="Ionic logo" width="6%" title='Ionic'/>
 </p>
 
-## Recent Projects
+## Latest Projects
 
 #### An real estate application
 <p>
