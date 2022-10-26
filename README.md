@@ -68,7 +68,7 @@ Let me know if you need any help or collaboration on web projects using any of t
   API is an GraphQL API build with ExpressJS, Express-graphql, Graphql-tools and Prisma ORM.
 </p>
 
-<!--
+
 ## My GitHub Stats
 
  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=francelwebdev&show_icons=true&locale=en&layout=default" alt="Francel AMAMOO" /></p>
@@ -76,7 +76,7 @@ Let me know if you need any help or collaboration on web projects using any of t
 <p><img src="https://github-readme-stats.vercel.app/api?username=francelwebdev&show_icons=true&locale=en&layout=default" alt="Francel AMAMOO" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francelwebdev&show_icons=true&locale=en&layout=default" alt="Francel AMAMOO" /></p>
- -->
+
  
 <!-- ## Tech Stacks
 - MEEN Stack
