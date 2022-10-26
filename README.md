@@ -77,6 +77,13 @@ Let me know if you need any help or collaboration on web projects using any of t
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francelwebdev&show_icons=true&locale=en&layout=default" alt="Francel AMAMOO" /></p>
 
+
+## Skills:
+[![Francel AMAMOO github stats](https://github-readme-stats.vercel.app/api?username=francelwebdev&show_icons=true&theme=radical)](https://github.com/francelwebdev/github-readme-stats) </br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francelwebdev&show_icons=true&theme=radical&layout=compact)](https://github.com/francelwebdev/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@francelwebdev)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=francelwebdev&style=for-the-badge)
  
 <!-- ## Tech Stacks
 - MEEN Stack
