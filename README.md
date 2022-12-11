@@ -48,7 +48,7 @@ Let me know if you need any help or collaboration on web projects using any of t
 
 #### An dating app
 <p>
-  UI: https://belleforme.vercel.app/
+  UI: https://belleforme.pages.dev/
   <br>
   API: https://belleforme-api.herokuapp.com/
   
@@ -59,7 +59,7 @@ Let me know if you need any help or collaboration on web projects using any of t
 
 #### An real estate app
 <p>
-  UI: https://cifoncia.vercel.app/
+  UI: https://cifoncia.pages.dev/
   <br>
   API: https://cifoncia-api.herokuapp.com/
   
