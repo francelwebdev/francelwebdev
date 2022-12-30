@@ -20,10 +20,11 @@ Currently I am perfecting my knowledge of JavaScript and it ecosystem and also l
 
 Experience in building RESTful API and GraphQL API, deploy to the cloud (Heroku or other PaaS provider).
 
-Favorite hobby : read and practice.
+Hobbies : read books and tutorials and practice.
 
 Let me know if you need any help or collaboration.
 
+<!--
 ## Skills.
 
 #### Back-end.
@@ -51,7 +52,7 @@ Let me know if you need any help or collaboration.
   <img src ="./images/quasar-logo.svg" alt="Quasar logo" width="6%" title='Quasar'/>
   <img src ="./images/512px-Ionic_Logo.svg.png" alt="Ionic logo" width="6%" title='Ionic'/>
 </p>
-
+-->
 ## Latest Projects
 
 #### An dating app
