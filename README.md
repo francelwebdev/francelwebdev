@@ -28,22 +28,10 @@ Let me know if you need any help or collaboration.
 
 #### An real estate app
 <p>
-  UI: https://belleforme.pages.dev/
-  <br>
-  API: https://belleforme-api.herokuapp.com/
-  
-  UI is build with VueJS and Quasar framework.
-  <br>
-  API is an RESTful API build with FoalTS and Prisma ORM.
+  https://cifoncia.pages.dev/
 </p>
 
 #### An dating app
 <p>
-  UI: https://cifoncia.pages.dev/
-  <br>
-  API: https://cifoncia-api.herokuapp.com/
-  
-  UI is build with VueJS and Quasar framework.
-  <br>
-  API is an GraphQL API build with ExpressJS, Express-graphql, Graphql-tools and Prisma ORM.
+  https://belleforme.pages.dev/
 </p>
