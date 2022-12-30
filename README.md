@@ -24,8 +24,7 @@ Hobbies : read books and tutorials and practice.
 
 Let me know if you need any help or collaboration.
 
-<!--
-## Skills.
+<!-- ## Skills.
 
 #### Back-end.
 <p>
@@ -51,22 +50,11 @@ Let me know if you need any help or collaboration.
   <img src ="./images/vuejs-seeklogo.com.svg" alt="VueJS logo" width="6%" title='VueJS'/>
   <img src ="./images/quasar-logo.svg" alt="Quasar logo" width="6%" title='Quasar'/>
   <img src ="./images/512px-Ionic_Logo.svg.png" alt="Ionic logo" width="6%" title='Ionic'/>
-</p>
--->
+</p> -->
+
 ## Latest Projects
 
 #### An dating app
-<p>
-  UI: https://belleforme.pages.dev/
-  <br>
-  API: https://belleforme-api.herokuapp.com/
-  
-  UI is build with VueJS and Quasar framework.
-  <br>
-  API is an RESTful API build with FoalTS and Prisma ORM.
-</p>
-
-#### An real estate app
 <p>
   UI: https://cifoncia.pages.dev/
   <br>
@@ -75,6 +63,17 @@ Let me know if you need any help or collaboration.
   UI is build with VueJS and Quasar framework.
   <br>
   API is an GraphQL API build with ExpressJS, Express-graphql, Graphql-tools and Prisma ORM.
+</p>
+
+#### An real estate app
+<p>
+  UI: https://belleforme.pages.dev/
+  <br>
+  API: https://belleforme-api.herokuapp.com/
+  
+  UI is build with VueJS and Quasar framework.
+  <br>
+  API is an RESTful API build with FoalTS and Prisma ORM.
 </p>
 
 
