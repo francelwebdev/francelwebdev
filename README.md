@@ -6,15 +6,20 @@
 [![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
 [![Style](https://img.shields.io/badge/Light%20Mode-efefef.svg#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
 
-- (4+ using Ruby and Ruby on Rails), (2+ using NodeJS, ExpressJS, FastifyJS, FoalTS...), experience in building RESTful API and GraphQL API, PostgreSQL, MySQL, MariaDB, CockroachDB, MongoDB for data store.
-- little knowledge of Python, Django and Flask. 
-- little knowledge of Elixir programming language and Phoenix framework.
-- little knowledge of Front-end (VueJS).
-- deploy to the cloud (Heroku and other PaaS provider).
+I'm Software Developer, looking for Full Time Remote Frontend or Backend Job.
 
-Favorite hobby : learning things about coding, coding best practice, writing code using my favorite preferred programming languages (Ruby, JavaScript and Python) and contribute to open source project on GitHub.
+Tech stack I'm currently comfortable with.
+Front-end : Vue, Vue Router, Vuex/Pinia, Nuxt, Quasar, Vuetify, Bootstrap, TailwindCSS/WindiCSS.
+Backend : Express, Fastify, Hapi or Ruby on Rails, Laravel.
+Database : PostgreSQL, MySQL, MongoDB.
 
-Let me know if you need any help or collaboration on web projects using any of these technologies.
+Currently I am perfecting my knowledge of JavaScript and it ecosystem and also learning React, React Native, Preact, Ionic...
+
+Experience in building RESTful API and GraphQL API, deploy to the cloud (Heroku or other PaaS provider).
+
+Favorite hobby : read and practice.
+
+Let me know if you need any help or collaboration.
 
 ## Skills.
 
