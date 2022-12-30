@@ -9,6 +9,7 @@
 I'm Software Developer, looking for Full Time Remote Frontend or Backend Job.
 
 Tech stack I'm currently comfortable with.
+
 Front-end : Vue, Vue Router, Vuex/Pinia, Nuxt, Quasar, Vuetify, Bootstrap, TailwindCSS/WindiCSS.
 Backend : Express, Fastify, Hapi or Ruby on Rails, Laravel.
 Database : PostgreSQL, MySQL, MongoDB.
