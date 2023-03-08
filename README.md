@@ -16,7 +16,7 @@ Backend : Express, Fastify, Hapi or Ruby on Rails, Laravel.
 
 Database : PostgreSQL, MySQL, MongoDB.
 
-Currently I am perfecting my knowledge of JavaScript and it ecosystem and also learning React, React Native, Preact, Ionic...
+Currently I am perfecting my knowledge of JavaScript.
 
 Experience in building RESTful API and GraphQL API, deploy to the cloud (Heroku or other PaaS provider).
 
