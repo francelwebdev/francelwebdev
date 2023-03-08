@@ -26,12 +26,12 @@ Let me know if you need any help or collaboration.
 
 ## Latest Projects
 
-#### An real estate app
+#### An real estate application
 <p>
   https://cifoncia.pages.dev/
 </p>
 
-#### An dating app
+#### An cryptocurrency exchange application
 <p>
-  https://belleforme.pages.dev/
+  https://ciexchange.pages.dev/
 </p>
