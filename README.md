@@ -7,16 +7,15 @@
 [![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
 [![Style](https://img.shields.io/badge/Light%20Mode-efefef.svg#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
 -->
-I'm Web Developer, looking for Full Time Remote Backend or Frontend Job.
 
-Tech stack I'm currently focusing on are : JavaScript and TypeScript everywhere.
+I'm a web developer, available for full-time remote backend or frontend work.
 
-In Front-end I use : HTML, CSS, JavaScrypt, Vue, Vue Router, Pinia, Nuxt, Quasar, Vuetify, Bootstrap, TailwindCSS/WindiCSS.
+Currently, I only focus on: JavaScript and TypeScript.
 
-In Backend I use : JavaScrypt/TypeScript, ExpressJS, FastifyJS, HapiJS, AdonisJS, FoalTS.
+On Front-end, I currently use: VueJS, Vue Router, Pinia, NuxtJS, QuasarJS, VuetifyJS, Bootstrap, TailwindCSS/WindiCSS and other UI component frameworks.
 
-Database : PostgreSQL, MySQL, MongoDB.
+In Backend, I currently use: ExpressJS, FastifyJS, HapiJS, AdonisJS, FoalTS and other NodeJS frameworks.
 
-I also have experience with these Backend technologies : Ruby on Rails, Laravel, Django, but I don't use them anymore.
+In Database, I use: PostgreSQL, MySQL.
 
-Let me know if you need any help or collaboration.
+I also have experience with the following Backend technologies: Ruby on Rails, Laravel and Django, but I don't use them anymore, because I currently focus on JavaScript and TypeScript, which allows me to use one language everywhere and master it.
