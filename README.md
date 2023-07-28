@@ -6,32 +6,16 @@
 [![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
 [![Style](https://img.shields.io/badge/Light%20Mode-efefef.svg#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
 
-I'm Software Developer, looking for Full Time Remote Frontend or Backend Job.
+I'm Web Developer, looking for Full Time Remote Backend or Frontend Job.
 
-Tech stack I'm currently comfortable with.
+Tech stack I'm currently focusing on are : JavaScript and TypeScript everywhere.
 
-Front-end : Vue, Vue Router, Vuex/Pinia, Nuxt, Quasar, Vuetify, Bootstrap, TailwindCSS/WindiCSS.
+In Front-end I use : HTML, CSS, JavaScrypt, Vue, Vue Router, Pinia, Nuxt, Quasar, Vuetify, Bootstrap, TailwindCSS/WindiCSS.
 
-Backend : Express, Fastify, Hapi or Ruby on Rails, Laravel.
+In Backend I use : JavaScrypt/TypeScript, ExpressJS, FastifyJS, HapiJS, AdonisJS, FoalTS.
 
 Database : PostgreSQL, MySQL, MongoDB.
 
-Currently I am perfecting my knowledge of JavaScript.
-
-Experience in building RESTful API and GraphQL API, deploy to the cloud (Heroku or other PaaS provider).
-
-Hobbies : read books and tutorials and practice.
+I also have experience with these Backend technologies : Ruby on Rails, Laravel, Django, but I don't use them anymore.
 
 Let me know if you need any help or collaboration.
-
-## Latest Projects
-
-#### An real estate application
-<p>
-  https://cifoncia.pages.dev/
-</p>
-
-#### An cryptocurrency exchange application
-<p>
-  https://ciexchange.pages.dev/
-</p>
