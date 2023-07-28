@@ -1,11 +1,12 @@
 # About Me
 
-<!-- [![GitHub](https://img.shields.io/badge/GitHub-%40francelwebdev-239a3b.svg)](https://github.com/francelwebdev) -->
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-%40alex31731307-58a1f2.svg)](https://twitter.com/alex31731307) -->
+<!--
+[![GitHub](https://img.shields.io/badge/GitHub-%40francelwebdev-239a3b.svg)](https://github.com/francelwebdev)
+[![Twitter](https://img.shields.io/badge/Twitter-%40alex31731307-58a1f2.svg)](https://twitter.com/alex31731307) 
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/francel-amamoo-b14660145/)
 [![Style](https://img.shields.io/badge/Dark%20Mode-111111.svg#gh-dark-mode-only)](https://github.com/settings/appearance#gh-dark-mode-only)
 [![Style](https://img.shields.io/badge/Light%20Mode-efefef.svg#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
-
+-->
 I'm Web Developer, looking for Full Time Remote Backend or Frontend Job.
 
 Tech stack I'm currently focusing on are : JavaScript and TypeScript everywhere.
