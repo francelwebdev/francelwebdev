@@ -8,14 +8,14 @@
 [![Style](https://img.shields.io/badge/Light%20Mode-efefef.svg#gh-light-mode-only)](https://github.com/settings/appearance#gh-light-mode-only)
 -->
 
-I'm a web developer, available for full-time remote backend or frontend work.
+I'm a web developer, currently I'm specializing in JavaScript and TypeScript after years of using Ruby and Ruby on Rails.
 
-Currently, I only focus on: JavaScript and TypeScript.
+Available to work for full-time remote backend or frontend work.
 
-On Front-end, I currently use: VueJS, Vue Router, Pinia, NuxtJS, QuasarJS, VuetifyJS, Bootstrap, TailwindCSS/WindiCSS and other UI component frameworks.
+I am now focusing only on JavaScript and TypeScript because today JavaScript works everywhere and therefore I will only have to learn one programming language well and I will be able to use it to do everything.
+
+In Front-end, I currently use: VueJS, Vue Router, Pinia, NuxtJS, QuasarJS, VuetifyJS, Bootstrap, TailwindCSS/WindiCSS and other UI component frameworks.
 
 In Backend, I currently use: ExpressJS, FastifyJS, HapiJS, AdonisJS, FoalTS and other NodeJS frameworks.
 
 In Database, I use: PostgreSQL, MySQL.
-
-I also have experience with the following Backend technologies: Ruby on Rails, Laravel and Django, but I don't use them anymore, because I currently focus on JavaScript and TypeScript, which allows me to use one language everywhere and master it.
